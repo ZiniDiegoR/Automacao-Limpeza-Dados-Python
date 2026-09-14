@@ -1,0 +1,629 @@
+id_pedido,produto,categoria,quantidade,valor_unitario,forma_pagamento,regiao,cep_cliente,data_pedido,valor_total
+1380,Livro - Hábitos Atômicos,Livros,3,44.9,Cartão de Crédito,Nordeste,07544361,2024-01-01,134.7
+1330,Livro - O Poder do Hábito,Livros,2,39.9,Cartão de Crédito,Norte,08091858,2024-01-03,79.8
+1251,Tênis de Corrida,Esporte,1,259.9,Cartão de Crédito,Sul,09872354,2024-01-04,259.9
+1108,Jogo de Panelas,Casa e Decoração,1,189.9,Cartão de Débito,Sul,03116389,2024-01-04,189.9
+1104,Jogo de Panelas,Casa e Decoração,1,189.9,Boleto,Norte,07566071,2024-01-04,189.9
+1252,Tênis de Corrida,Esporte,1,259.9,Cartão de Crédito,Sul,,2024-01-04,259.9
+1250,Smartwatch Fit,Eletrônicos,2,349.9,Pix,Norte,05979757,2024-01-05,699.8
+1235,Tênis de Corrida,Esporte,1,259.9,Cartão de Crédito,Centro-Oeste,03165489,2024-01-05,259.9
+1379,Livro - O Poder do Hábito,Livros,2,39.9,Pix,Sul,01550802,2024-01-06,79.8
+1405,Jogo de Panelas,Casa e Decoração,1,189.9,Boleto,Nordeste,05698480,2024-01-06,189.9
+1438,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Crédito,Nordeste,08373482,2024-01-08,79.9
+1525,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Crédito,Sudeste,01118183,2024-01-09,79.9
+1200,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Boleto,Centro-Oeste,02260306,2024-01-09,129.9
+1587,Mochila Executiva,Moda,1,159.9,Cartão de Crédito,Nordeste,07188584,2024-01-11,159.9
+1550,Camiseta Básica,Moda,1,49.9,Cartão de Débito,Sul,08504950,2024-01-13,49.9
+1214,Livro - O Poder do Hábito,Livros,1,39.9,Pix,Centro-Oeste,02406118,2024-01-13,39.9
+1126,Tênis de Corrida,Esporte,1,259.9,Cartão de Débito,Norte,07126241,2024-01-14,259.9
+1051,Jogo de Panelas,Casa e Decoração,2,189.9,Cartão de Débito,Centro-Oeste,04249077,2024-01-14,379.8
+1217,Livro - O Poder do Hábito,Livros,2,39.9,Boleto,Centro-Oeste,08037398,2024-01-15,79.8
+1530,Bicicleta Ergométrica,Esporte,1,899.9,Cartão de Crédito,Sudeste,04855738,2024-01-15,899.9
+1261,Luminária de Mesa,Casa e Decoração,2,89.9,Cartão de Débito,Sul,06799219,2024-01-16,179.8
+1271,Luminária de Mesa,Casa e Decoração,2,89.9,Pix,Norte,04619654,2024-01-17,179.8
+1194,Livro - O Poder do Hábito,Livros,2,39.9,Cartão de Crédito,Sudeste,01104422,2024-01-18,79.8
+1212,Mochila Executiva,Moda,2,159.9,Pix,Norte,02392111,2024-01-19,319.8
+1029,Luminária de Mesa,Casa e Decoração,2,89.9,Boleto,Centro-Oeste,03088042,2024-01-19,179.8
+1378,Livro - Hábitos Atômicos,Livros,2,44.9,Cartão de Débito,Norte,09536293,2024-01-20,89.8
+1541,Livro - Hábitos Atômicos,Livros,2,44.9,Boleto,Norte,02097574,2024-01-21,89.8
+1149,Carregador Portátil,Eletrônicos,2,79.9,Cartão de Crédito,Sudeste,01744971,2024-01-22,159.8
+1052,Livro - O Poder do Hábito,Livros,2,39.9,Cartão de Débito,Nordeste,02129518,2024-01-22,79.8
+1520,Fone de Ouvido Bluetooth,Eletrônicos,3,129.9,Boleto,Norte,08509962,2024-01-22,389.7
+1109,Livro - Hábitos Atômicos,Livros,2,44.9,Cartão de Débito,Sudeste,06129589,2024-01-22,89.8
+1199,Livro - Hábitos Atômicos,Livros,2,44.9,Cartão de Débito,Nordeste,01762946,2024-01-22,89.8
+1367,Mochila Executiva,Moda,1,159.9,Boleto,Sul,09399040,2024-01-23,159.9
+1624,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Débito,Nordeste,03118216,2024-01-23,79.9
+1040,Tênis de Corrida,Esporte,1,259.9,Cartão de Débito,Norte,02193466,2024-01-24,259.9
+1317,Mochila Executiva,Moda,1,159.9,Boleto,Sul,06384366,2024-01-24,159.9
+1022,Luminária de Mesa,Casa e Decoração,1,89.9,Boleto,Sudeste,09320082,2024-01-26,89.9
+1461,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Crédito,Nordeste,01601148,2024-01-26,79.9
+1249,Smartwatch Fit,Eletrônicos,3,349.9,Cartão de Crédito,Centro-Oeste,02129898,2024-01-27,1049.7
+1337,Livro - O Poder do Hábito,Livros,2,39.9,Pix,Sul,08259849,2024-01-28,79.8
+1319,Smartwatch Fit,Eletrônicos,3,349.9,Boleto,Sudeste,07816933,2024-01-31,1049.7
+1195,Tênis de Corrida,Esporte,1,259.9,Cartão de Débito,Centro-Oeste,01257006,2024-01-31,259.9
+1045,Bicicleta Ergométrica,Esporte,2,899.9,Cartão de Débito,Centro-Oeste,01320877,2024-02-01,1799.8
+1185,Mochila Executiva,Moda,1,159.9,Boleto,Centro-Oeste,09120048,2024-02-01,159.9
+1009,Livro - O Poder do Hábito,Livros,2,39.9,Cartão de Débito,Norte,05119994,2024-02-02,79.8
+1472,Livro - O Poder do Hábito,Livros,1,39.9,Pix,Sudeste,06556384,2024-02-03,39.9
+1307,Carregador Portátil,Eletrônicos,1,79.9,Pix,Nordeste,08469745,2024-02-03,79.9
+1463,Smartwatch Fit,Eletrônicos,2,349.9,Boleto,Sudeste,05496337,2024-02-03,699.8
+1452,Tênis de Corrida,Esporte,1,259.9,Cartão de Débito,Norte,09027704,2024-02-03,259.9
+1384,Cafeteira Elétrica,Casa e Decoração,1,219.9,Boleto,Sul,06172422,2024-02-04,219.9
+1016,Livro - O Poder do Hábito,Livros,1,39.9,Pix,Sudeste,09423243,2024-02-04,39.9
+1590,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Débito,Centro-Oeste,04436355,2024-02-04,79.9
+1408,Jogo de Panelas,Casa e Decoração,1,189.9,Pix,Sudeste,08460632,2024-02-05,189.9
+1347,Camiseta Básica,Moda,2,49.9,Boleto,Nordeste,,2024-02-06,99.8
+1480,Carregador Portátil,Eletrônicos,1,79.9,Pix,Norte,08268051,2024-02-06,79.9
+1346,Camiseta Básica,Moda,2,49.9,Boleto,Nordeste,07678397,2024-02-06,99.8
+1539,Cafeteira Elétrica,Casa e Decoração,3,219.9,Pix,Norte,01535303,2024-02-06,659.7
+1061,Smartwatch Fit,Eletrônicos,2,349.9,Cartão de Crédito,Sul,03444830,2024-02-07,699.8
+1275,Mochila Executiva,Moda,3,159.9,Cartão de Crédito,Nordeste,08909721,2024-02-08,479.7
+1630,Jogo de Panelas,Casa e Decoração,2,189.9,Cartão de Crédito,Norte,07961422,2024-02-09,379.8
+1004,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Cartão de Crédito,Centro-Oeste,05554464,2024-02-10,129.9
+1118,Livro - O Poder do Hábito,Livros,1,39.9,Boleto,Nordeste,06082990,2024-02-11,39.9
+1540,Carregador Portátil,Eletrônicos,3,79.9,Pix,Sudeste,09433968,2024-02-11,239.7
+1609,Livro - Hábitos Atômicos,Livros,1,44.9,Boleto,Centro-Oeste,,2024-02-13,44.9
+1608,Livro - Hábitos Atômicos,Livros,1,44.9,Boleto,Centro-Oeste,07182967,2024-02-13,44.9
+1349,Livro - O Poder do Hábito,Livros,2,39.9,Cartão de Débito,Centro-Oeste,07473841,2024-02-14,79.8
+1145,Bicicleta Ergométrica,Esporte,2,899.9,Cartão de Débito,Centro-Oeste,09612420,2024-02-14,1799.8
+1079,Jogo de Panelas,Casa e Decoração,3,189.9,Cartão de Crédito,Sudeste,08269170,2024-02-16,569.7
+1072,Fone de Ouvido Bluetooth,Eletrônicos,2,129.9,Cartão de Crédito,Centro-Oeste,02924663,2024-02-17,259.8
+1260,Livro - O Poder do Hábito,Livros,1,39.9,Pix,Sudeste,01699964,2024-02-17,39.9
+1173,Smartwatch Fit,Eletrônicos,3,349.9,Boleto,Centro-Oeste,06301958,2024-02-18,1049.7
+1100,Mochila Executiva,Moda,3,159.9,Pix,Nordeste,07132976,2024-02-18,479.7
+1157,Carregador Portátil,Eletrônicos,1,79.9,Pix,Norte,06990773,2024-02-19,79.9
+1063,Jogo de Panelas,Casa e Decoração,2,189.9,Boleto,Sul,05335676,2024-02-20,379.8
+1112,Luminária de Mesa,Casa e Decoração,1,89.9,Boleto,Sul,03504778,2024-02-22,89.9
+1410,Bicicleta Ergométrica,Esporte,1,899.9,Boleto,Centro-Oeste,01134238,2024-02-22,899.9
+1296,Carregador Portátil,Eletrônicos,2,79.9,Pix,Norte,05631305,2024-02-22,159.8
+1374,Livro - Hábitos Atômicos,Livros,1,44.9,Pix,Nordeste,09783433,2024-02-24,44.9
+1328,Jogo de Panelas,Casa e Decoração,3,189.9,Boleto,Centro-Oeste,03301841,2024-02-24,569.7
+1256,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Débito,Nordeste,07660123,2024-02-24,79.9
+1094,Camiseta Básica,Moda,1,49.9,Cartão de Crédito,Sul,01243366,2024-02-26,49.9
+1095,Camiseta Básica,Moda,1,49.9,Não informado,Sul,01243366,2024-02-26,49.9
+1161,Fone de Ouvido Bluetooth,Eletrônicos,3,129.9,Cartão de Débito,Nordeste,07861155,2024-02-26,389.7
+1177,Livro - Hábitos Atômicos,Livros,2,44.9,Boleto,Norte,09792153,2024-02-27,89.8
+1065,Jogo de Panelas,Casa e Decoração,2,189.9,Boleto,Nordeste,03330073,2024-02-28,379.8
+1620,Camiseta Básica,Moda,2,49.9,Cartão de Débito,Sudeste,08233365,2024-02-29,99.8
+1220,Livro - O Poder do Hábito,Livros,1,39.9,Cartão de Crédito,Sul,07116710,2024-03-01,39.9
+1568,Livro - O Poder do Hábito,Livros,2,39.9,Cartão de Crédito,Sudeste,05942683,2024-03-01,79.8
+1175,Livro - O Poder do Hábito,Livros,3,39.9,Pix,Nordeste,04618224,2024-03-01,119.7
+1509,Tênis de Corrida,Esporte,3,259.9,Boleto,Centro-Oeste,04027917,2024-03-02,779.7
+1523,Livro - Hábitos Atômicos,Livros,1,44.9,Boleto,Nordeste,04493782,2024-03-02,44.9
+1058,Luminária de Mesa,Casa e Decoração,1,89.9,Boleto,Sul,04545756,2024-03-02,89.9
+1457,Livro - Hábitos Atômicos,Livros,3,44.9,Cartão de Débito,Nordeste,02397536,2024-03-04,134.7
+1003,Luminária de Mesa,Casa e Decoração,2,89.9,Cartão de Débito,Sudeste,05803849,2024-03-04,179.8
+1291,Cafeteira Elétrica,Casa e Decoração,3,219.9,Boleto,Nordeste,09008608,2024-03-04,659.7
+1047,Mochila Executiva,Moda,2,159.9,Cartão de Crédito,Centro-Oeste,01444085,2024-03-06,319.8
+1305,Camiseta Básica,Moda,1,49.9,Cartão de Débito,Centro-Oeste,08029988,2024-03-07,49.9
+1321,Livro - Hábitos Atômicos,Livros,3,44.9,Cartão de Débito,Sudeste,,2024-03-07,134.7
+1320,Livro - Hábitos Atômicos,Livros,3,44.9,Cartão de Débito,Sudeste,07738451,2024-03-07,134.7
+1333,Jogo de Panelas,Casa e Decoração,3,189.9,Boleto,Norte,09888710,2024-03-08,569.7
+1233,Mochila Executiva,Moda,3,159.9,Pix,Sul,05489095,2024-03-08,479.7
+1288,Luminária de Mesa,Casa e Decoração,1,89.9,Cartão de Débito,Nordeste,05414746,2024-03-09,89.9
+1595,Tênis de Corrida,Esporte,1,259.9,Pix,Norte,03883659,2024-03-10,259.9
+1332,Jogo de Panelas,Casa e Decoração,1,189.9,Pix,Norte,06143728,2024-03-11,189.9
+1162,Cafeteira Elétrica,Casa e Decoração,3,219.9,Pix,Centro-Oeste,09609385,2024-03-11,659.7
+1128,Luminária de Mesa,Casa e Decoração,1,89.9,Cartão de Débito,Sul,08685459,2024-03-11,89.9
+1357,Livro - O Poder do Hábito,Livros,1,39.9,Boleto,Nordeste,02252744,2024-03-12,39.9
+1360,Carregador Portátil,Eletrônicos,2,79.9,Boleto,Norte,03395753,2024-03-12,159.8
+1365,Carregador Portátil,Eletrônicos,2,79.9,Boleto,Sudeste,09430658,2024-03-12,159.8
+1201,Livro - O Poder do Hábito,Livros,2,39.9,Cartão de Crédito,Norte,06666054,2024-03-12,79.8
+1521,Smartwatch Fit,Eletrônicos,3,349.9,Cartão de Crédito,Centro-Oeste,01750248,2024-03-13,1049.7
+1575,Livro - O Poder do Hábito,Livros,1,39.9,Cartão de Crédito,Sul,02060372,2024-03-14,39.9
+1526,Cafeteira Elétrica,Casa e Decoração,1,219.9,Cartão de Débito,Centro-Oeste,04919960,2024-03-14,219.9
+1437,Livro - Hábitos Atômicos,Livros,2,44.9,Boleto,Sul,07124159,2024-03-15,89.8
+1447,Luminária de Mesa,Casa e Decoração,2,89.9,Boleto,Nordeste,02111570,2024-03-15,179.8
+1594,Mochila Executiva,Moda,1,159.9,Boleto,Nordeste,08604497,2024-03-17,159.9
+1513,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Cartão de Débito,Norte,01060527,2024-03-18,129.9
+1192,Luminária de Mesa,Casa e Decoração,1,89.9,Boleto,Centro-Oeste,05026511,2024-03-19,89.9
+1277,Carregador Portátil,Eletrônicos,2,79.9,Cartão de Crédito,Centro-Oeste,02435301,2024-03-19,159.8
+1002,Mochila Executiva,Moda,1,159.9,Pix,Sudeste,02519389,2024-03-20,159.9
+1341,Bicicleta Ergométrica,Esporte,2,899.9,Cartão de Débito,Sudeste,06724226,2024-03-22,1799.8
+1153,Mochila Executiva,Moda,1,159.9,Pix,Sul,03610510,2024-03-22,159.9
+1462,Smartwatch Fit,Eletrônicos,1,349.9,Boleto,Centro-Oeste,06901953,2024-03-23,349.9
+1339,Bicicleta Ergométrica,Esporte,1,899.9,Pix,Sudeste,06415477,2024-03-23,899.9
+1604,Livro - Hábitos Atômicos,Livros,1,44.9,Cartão de Crédito,Nordeste,07895616,2024-03-23,44.9
+1548,Livro - Hábitos Atômicos,Livros,2,44.9,Boleto,Norte,05673186,2024-03-26,89.8
+1272,Tênis de Corrida,Esporte,1,259.9,Cartão de Crédito,Nordeste,08317011,2024-03-26,259.9
+1455,Jogo de Panelas,Casa e Decoração,2,189.9,Cartão de Crédito,Norte,03330474,2024-03-26,379.8
+1020,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Cartão de Débito,Sul,07570924,2024-03-26,129.9
+1500,Fone de Ouvido Bluetooth,Eletrônicos,2,129.9,Pix,Norte,01447293,2024-03-27,259.8
+1193,Luminária de Mesa,Casa e Decoração,2,89.9,Pix,Sul,03293737,2024-03-27,179.8
+1039,Tênis de Corrida,Esporte,3,259.9,Pix,Norte,06491095,2024-03-27,779.7
+1431,Smartwatch Fit,Eletrônicos,2,349.9,Cartão de Crédito,Norte,05921038,2024-03-29,699.8
+1566,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Crédito,Sudeste,04643131,2024-03-29,79.9
+1258,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Cartão de Débito,Centro-Oeste,05093096,2024-03-30,129.9
+1268,Camiseta Básica,Moda,3,49.9,Pix,Sudeste,01359151,2024-03-31,149.7
+1266,Mochila Executiva,Moda,1,159.9,Pix,Nordeste,01462720,2024-03-31,159.9
+1059,Jogo de Panelas,Casa e Decoração,1,189.9,Boleto,Nordeste,01745997,2024-04-01,189.9
+1616,Camiseta Básica,Moda,2,49.9,Cartão de Débito,Nordeste,08669135,2024-04-01,99.8
+1422,Smartwatch Fit,Eletrônicos,1,349.9,Boleto,Sudeste,08952196,2024-04-01,349.9
+1511,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Cartão de Débito,Sul,07432182,2024-04-01,129.9
+1264,Livro - Hábitos Atômicos,Livros,1,44.9,Boleto,Sudeste,05602059,2024-04-02,44.9
+1412,Smartwatch Fit,Eletrônicos,2,349.9,Pix,Centro-Oeste,01206124,2024-04-02,699.8
+1459,Cafeteira Elétrica,Casa e Decoração,3,219.9,Boleto,Sul,01057637,2024-04-02,659.7
+1353,Jogo de Panelas,Casa e Decoração,1,189.9,Cartão de Crédito,Norte,08557660,2024-04-02,189.9
+1134,Luminária de Mesa,Casa e Decoração,3,89.9,Cartão de Crédito,Centro-Oeste,01605300,2024-04-03,269.7
+1019,Cafeteira Elétrica,Casa e Decoração,2,219.9,Boleto,Sudeste,08260827,2024-04-03,439.8
+1369,Mochila Executiva,Moda,2,159.9,Pix,Sul,06614944,2024-04-03,319.8
+1400,Cafeteira Elétrica,Casa e Decoração,1,219.9,Boleto,Sul,05122963,2024-04-04,219.9
+1172,Livro - O Poder do Hábito,Livros,3,39.9,Pix,Nordeste,04164179,2024-04-05,119.7
+1546,Luminária de Mesa,Casa e Decoração,1,89.9,Boleto,Norte,06503421,2024-04-06,89.9
+1188,Smartwatch Fit,Eletrônicos,3,349.9,Cartão de Débito,Norte,01647894,2024-04-07,1049.7
+1283,Camiseta Básica,Moda,1,49.9,Cartão de Débito,Sudeste,08133206,2024-04-08,49.9
+1290,Carregador Portátil,Eletrônicos,1,79.9,Boleto,Sudeste,05087033,2024-04-08,79.9
+1338,Carregador Portátil,Eletrônicos,3,79.9,Boleto,Sudeste,04063985,2024-04-09,239.7
+1001,Bicicleta Ergométrica,Esporte,2,899.9,Cartão de Débito,Sul,08359603,2024-04-11,1799.8
+1435,Camiseta Básica,Moda,2,49.9,Boleto,Norte,09589252,2024-04-11,99.8
+1478,Livro - O Poder do Hábito,Livros,1,39.9,Pix,Norte,06228791,2024-04-12,39.9
+1386,Luminária de Mesa,Casa e Decoração,2,89.9,Boleto,Nordeste,04387234,2024-04-12,179.8
+1579,Bicicleta Ergométrica,Esporte,2,899.9,Cartão de Débito,Centro-Oeste,09270267,2024-04-13,1799.8
+1580,Bicicleta Ergométrica,Esporte,2,899.9,Não informado,Centro-Oeste,09270267,2024-04-13,1799.8
+1166,Jogo de Panelas,Casa e Decoração,1,189.9,Pix,Norte,05450140,2024-04-13,189.9
+1545,Camiseta Básica,Moda,1,49.9,Cartão de Crédito,Nordeste,07824992,2024-04-14,49.9
+1191,Luminária de Mesa,Casa e Decoração,1,89.9,Cartão de Débito,Sudeste,04625759,2024-04-14,89.9
+1183,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Crédito,Centro-Oeste,01797250,2024-04-15,79.9
+1276,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Cartão de Débito,Norte,09849271,2024-04-15,129.9
+1253,Mochila Executiva,Moda,1,159.9,Boleto,Centro-Oeste,09061984,2024-04-15,159.9
+1345,Tênis de Corrida,Esporte,1,259.9,Cartão de Débito,Sudeste,03519024,2024-04-15,259.9
+1467,Cafeteira Elétrica,Casa e Decoração,3,219.9,Cartão de Débito,Centro-Oeste,01745341,2024-04-16,659.7
+1164,Jogo de Panelas,Casa e Decoração,3,189.9,Cartão de Débito,Nordeste,08861357,2024-04-16,569.7
+1392,Camiseta Básica,Moda,2,49.9,Pix,Nordeste,07563286,2024-04-17,99.8
+1352,Mochila Executiva,Moda,1,159.9,Pix,Sul,07760927,2024-04-17,159.9
+1231,Mochila Executiva,Moda,2,159.9,Pix,Nordeste,06533560,2024-04-18,319.8
+1614,Livro - Hábitos Atômicos,Livros,3,44.9,Cartão de Débito,Norte,05198074,2024-04-18,134.7
+1048,Jogo de Panelas,Casa e Decoração,1,189.9,Pix,Centro-Oeste,05558770,2024-04-18,189.9
+1189,Livro - Hábitos Atômicos,Livros,1,44.9,Cartão de Crédito,Centro-Oeste,04974712,2024-04-18,44.9
+1329,Tênis de Corrida,Esporte,2,259.9,Boleto,Nordeste,02765775,2024-04-20,519.8
+1050,Cafeteira Elétrica,Casa e Decoração,2,219.9,Pix,Nordeste,03749620,2024-04-21,439.8
+1598,Mochila Executiva,Moda,2,159.9,Boleto,Sul,05498450,2024-04-21,319.8
+1407,Luminária de Mesa,Casa e Decoração,2,89.9,Cartão de Débito,Sul,09464782,2024-04-22,179.8
+1508,Smartwatch Fit,Eletrônicos,1,349.9,Pix,Sul,01557024,2024-04-22,349.9
+1008,Carregador Portátil,Eletrônicos,1,79.9,Boleto,Norte,09085093,2024-04-22,79.9
+1429,Jogo de Panelas,Casa e Decoração,1,189.9,Pix,Sudeste,05521941,2024-04-23,189.9
+1300,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Débito,Nordeste,09311307,2024-04-23,79.9
+1514,Luminária de Mesa,Casa e Decoração,2,89.9,Cartão de Débito,Sudeste,09770957,2024-04-25,179.8
+1366,Luminária de Mesa,Casa e Decoração,3,89.9,Pix,Sudeste,08889691,2024-04-27,269.7
+1376,Camiseta Básica,Moda,3,49.9,Boleto,Sudeste,04513520,2024-04-27,149.7
+1425,Bicicleta Ergométrica,Esporte,1,899.9,Boleto,Sul,09621672,2024-04-28,899.9
+1167,Bicicleta Ergométrica,Esporte,3,899.9,Cartão de Débito,Nordeste,08739102,2024-04-29,2699.7
+1502,Camiseta Básica,Moda,3,49.9,Cartão de Crédito,Nordeste,02382990,2024-04-30,149.7
+1315,Tênis de Corrida,Esporte,1,259.9,Cartão de Crédito,Sudeste,09095152,2024-04-30,259.9
+1282,Bicicleta Ergométrica,Esporte,2,899.9,Cartão de Crédito,Centro-Oeste,01568514,2024-04-30,1799.8
+1012,Smartwatch Fit,Eletrônicos,1,349.9,Cartão de Crédito,Sudeste,08962835,2024-05-02,349.9
+1216,Smartwatch Fit,Eletrônicos,3,349.9,Boleto,Nordeste,07985981,2024-05-04,1049.7
+1017,Carregador Portátil,Eletrônicos,2,79.9,Cartão de Débito,Sul,02545099,2024-05-04,159.8
+1443,Cafeteira Elétrica,Casa e Decoração,1,219.9,Pix,Nordeste,09027402,2024-05-06,219.9
+1402,Mochila Executiva,Moda,1,159.9,Cartão de Débito,Sul,03150539,2024-05-06,159.9
+1043,Cafeteira Elétrica,Casa e Decoração,1,219.9,Pix,Norte,08939641,2024-05-06,219.9
+1265,Tênis de Corrida,Esporte,1,259.9,Pix,Norte,01916782,2024-05-06,259.9
+1067,Luminária de Mesa,Casa e Decoração,2,89.9,Boleto,Norte,01339783,2024-05-08,179.8
+1207,Cafeteira Elétrica,Casa e Decoração,1,219.9,Cartão de Débito,Norte,04203468,2024-05-08,219.9
+1179,Jogo de Panelas,Casa e Decoração,2,189.9,Boleto,Norte,02196046,2024-05-10,379.8
+1428,Tênis de Corrida,Esporte,2,259.9,Cartão de Débito,Centro-Oeste,07505000,2024-05-10,519.8
+1373,Carregador Portátil,Eletrônicos,2,79.9,Cartão de Crédito,Norte,09561120,2024-05-11,159.8
+1512,Tênis de Corrida,Esporte,2,259.9,Cartão de Crédito,Sudeste,05105795,2024-05-12,519.8
+1297,Livro - O Poder do Hábito,Livros,1,39.9,Pix,Sul,03456529,2024-05-13,39.9
+1549,Livro - Hábitos Atômicos,Livros,2,44.9,Boleto,Norte,01568681,2024-05-13,89.8
+1613,Camiseta Básica,Moda,1,49.9,Cartão de Débito,Sul,07056596,2024-05-14,49.9
+1583,Bicicleta Ergométrica,Esporte,2,899.9,Cartão de Débito,Norte,06779784,2024-05-14,1799.8
+1024,Luminária de Mesa,Casa e Decoração,1,89.9,Pix,Centro-Oeste,06180951,2024-05-15,89.9
+1632,Livro - O Poder do Hábito,Livros,2,39.9,Boleto,Sul,04032080,2024-05-15,79.8
+1074,Mochila Executiva,Moda,2,159.9,Pix,Nordeste,09022886,2024-05-16,319.8
+1071,Cafeteira Elétrica,Casa e Decoração,1,219.9,Pix,Centro-Oeste,08941124,2024-05-16,219.9
+1506,Jogo de Panelas,Casa e Decoração,1,189.9,Pix,Norte,07408472,2024-05-16,189.9
+1000,Livro - O Poder do Hábito,Livros,1,39.9,Boleto,Sudeste,09935089,2024-05-20,39.9
+1388,Livro - Hábitos Atômicos,Livros,2,44.9,Pix,Centro-Oeste,04638768,2024-05-20,89.8
+1092,Livro - Hábitos Atômicos,Livros,2,44.9,Cartão de Crédito,Centro-Oeste,02501678,2024-05-21,89.8
+1577,Mochila Executiva,Moda,2,159.9,Cartão de Débito,Sudeste,03001256,2024-05-22,319.8
+1103,Bicicleta Ergométrica,Esporte,1,899.9,Cartão de Débito,Norte,01430623,2024-05-22,899.9
+1617,Fone de Ouvido Bluetooth,Eletrônicos,2,129.9,Cartão de Débito,Nordeste,05312627,2024-05-23,259.8
+1124,Livro - O Poder do Hábito,Livros,2,39.9,Cartão de Débito,Sul,04271820,2024-05-24,79.8
+1626,Camiseta Básica,Moda,2,49.9,Boleto,Sudeste,05891502,2024-05-25,99.8
+1171,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Débito,Sul,09261479,2024-05-25,79.9
+1180,Smartwatch Fit,Eletrônicos,1,349.9,Boleto,Centro-Oeste,07135912,2024-05-26,349.9
+1335,Tênis de Corrida,Esporte,1,259.9,Boleto,Sudeste,05835208,2024-05-26,259.9
+1398,Smartwatch Fit,Eletrônicos,2,349.9,Boleto,Sul,06527431,2024-05-26,699.8
+1589,Smartwatch Fit,Eletrônicos,1,349.9,Pix,Norte,07586823,2024-05-27,349.9
+1129,Camiseta Básica,Moda,1,49.9,Cartão de Crédito,Sudeste,04906429,2024-05-27,49.9
+1359,Mochila Executiva,Moda,2,159.9,Cartão de Crédito,Centro-Oeste,06961514,2024-05-28,319.8
+1184,Fone de Ouvido Bluetooth,Eletrônicos,2,129.9,Pix,Norte,06253242,2024-05-28,259.8
+1562,Livro - Hábitos Atômicos,Livros,1,44.9,Cartão de Crédito,Norte,04175784,2024-05-29,44.9
+1255,Mochila Executiva,Moda,1,159.9,Pix,Centro-Oeste,06345325,2024-05-29,159.9
+1302,Livro - Hábitos Atômicos,Livros,2,44.9,Cartão de Crédito,Centro-Oeste,01879887,2024-05-30,89.8
+1350,Luminária de Mesa,Casa e Decoração,2,89.9,Boleto,Nordeste,07113980,2024-05-31,179.8
+1351,Luminária de Mesa,Casa e Decoração,2,89.9,Boleto,Nordeste,,2024-05-31,179.8
+1083,Mochila Executiva,Moda,2,159.9,Pix,Sudeste,07484281,2024-05-31,319.8
+1316,Jogo de Panelas,Casa e Decoração,2,189.9,Cartão de Crédito,Sudeste,03862895,2024-05-31,379.8
+1596,Smartwatch Fit,Eletrônicos,2,349.9,Cartão de Débito,Nordeste,02479406,2024-06-01,699.8
+1011,Bicicleta Ergométrica,Esporte,3,899.9,Boleto,Sul,07126780,2024-06-01,2699.7
+1303,Smartwatch Fit,Eletrônicos,2,349.9,Boleto,Sul,04281350,2024-06-01,699.8
+1236,Smartwatch Fit,Eletrônicos,1,349.9,Boleto,Sul,02120543,2024-06-02,349.9
+1082,Cafeteira Elétrica,Casa e Decoração,2,219.9,Cartão de Débito,Nordeste,08484865,2024-06-02,439.8
+1186,Mochila Executiva,Moda,1,159.9,Cartão de Débito,Sul,04692307,2024-06-02,159.9
+1558,Jogo de Panelas,Casa e Decoração,1,189.9,Pix,Centro-Oeste,08593229,2024-06-03,189.9
+1474,Jogo de Panelas,Casa e Decoração,2,189.9,Pix,Sudeste,04311935,2024-06-03,379.8
+1527,Carregador Portátil,Eletrônicos,3,79.9,Cartão de Crédito,Norte,04860196,2024-06-03,239.7
+1563,Livro - Hábitos Atômicos,Livros,3,44.9,Pix,Sudeste,09755593,2024-06-03,134.7
+1089,Smartwatch Fit,Eletrônicos,3,349.9,Cartão de Crédito,Sul,01742968,2024-06-03,1049.7
+1547,Bicicleta Ergométrica,Esporte,2,899.9,Pix,Sul,05259232,2024-06-04,1799.8
+1147,Smartwatch Fit,Eletrônicos,1,349.9,Pix,Sul,06669970,2024-06-04,349.9
+1204,Smartwatch Fit,Eletrônicos,1,349.9,Pix,Sudeste,03170089,2024-06-06,349.9
+1555,Jogo de Panelas,Casa e Decoração,1,189.9,Cartão de Crédito,Sul,08278759,2024-06-06,189.9
+1468,Jogo de Panelas,Casa e Decoração,1,189.9,Pix,Sudeste,02865702,2024-06-06,189.9
+1037,Smartwatch Fit,Eletrônicos,2,349.9,Pix,Centro-Oeste,05844567,2024-06-07,699.8
+1477,Luminária de Mesa,Casa e Decoração,1,89.9,Cartão de Crédito,Nordeste,08649910,2024-06-08,89.9
+1399,Camiseta Básica,Moda,1,49.9,Pix,Nordeste,07479277,2024-06-09,49.9
+1427,Bicicleta Ergométrica,Esporte,1,899.9,Pix,Nordeste,07755782,2024-06-10,899.9
+1505,Cafeteira Elétrica,Casa e Decoração,3,219.9,Cartão de Crédito,Sudeste,09704652,2024-06-10,659.7
+1581,Smartwatch Fit,Eletrônicos,2,349.9,Cartão de Débito,Centro-Oeste,01589033,2024-06-10,699.8
+1603,Camiseta Básica,Moda,3,49.9,Cartão de Débito,Sudeste,05489887,2024-06-11,149.7
+1270,Mochila Executiva,Moda,3,159.9,Pix,Sul,03872387,2024-06-11,479.7
+1299,Carregador Portátil,Eletrônicos,3,79.9,Cartão de Crédito,Centro-Oeste,,2024-06-12,239.7
+1143,Cafeteira Elétrica,Casa e Decoração,3,219.9,Cartão de Crédito,Norte,09882297,2024-06-12,659.7
+1298,Carregador Portátil,Eletrônicos,3,79.9,Cartão de Crédito,Centro-Oeste,05843265,2024-06-12,239.7
+1098,Cafeteira Elétrica,Casa e Decoração,1,219.9,Cartão de Crédito,Sul,05505639,2024-06-13,219.9
+1075,Bicicleta Ergométrica,Esporte,2,899.9,Boleto,Norte,07274239,2024-06-13,1799.8
+1055,Livro - Hábitos Atômicos,Livros,2,44.9,Boleto,Nordeste,05232348,2024-06-15,89.8
+1531,Livro - Hábitos Atômicos,Livros,1,44.9,Boleto,Centro-Oeste,04276384,2024-06-15,44.9
+1006,Bicicleta Ergométrica,Esporte,3,899.9,Cartão de Crédito,Sul,01525824,2024-06-15,2699.7
+1110,Smartwatch Fit,Eletrônicos,1,349.9,Cartão de Débito,Nordeste,02443447,2024-06-15,349.9
+1573,Jogo de Panelas,Casa e Decoração,1,189.9,Cartão de Débito,Nordeste,08486614,2024-06-16,189.9
+1202,Carregador Portátil,Eletrônicos,2,79.9,Pix,Centro-Oeste,09038233,2024-06-16,159.8
+1446,Mochila Executiva,Moda,2,159.9,Boleto,Sul,03270594,2024-06-17,319.8
+1069,Livro - Hábitos Atômicos,Livros,1,44.9,Cartão de Débito,Nordeste,07561833,2024-06-17,44.9
+1499,Bicicleta Ergométrica,Esporte,2,899.9,Pix,Nordeste,03744036,2024-06-18,1799.8
+1469,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Cartão de Débito,Centro-Oeste,01582661,2024-06-18,129.9
+1304,Camiseta Básica,Moda,2,49.9,Boleto,Nordeste,01950004,2024-06-19,99.8
+1028,Jogo de Panelas,Casa e Decoração,1,189.9,Pix,Sul,08239564,2024-06-19,189.9
+1032,Mochila Executiva,Moda,1,159.9,Não informado,Sul,05371163,2024-06-19,159.9
+1031,Mochila Executiva,Moda,1,159.9,Cartão de Débito,Sul,05371163,2024-06-19,159.9
+1434,Mochila Executiva,Moda,1,159.9,Cartão de Crédito,Norte,07540268,2024-06-21,159.9
+1122,Luminária de Mesa,Casa e Decoração,3,89.9,Boleto,Norte,07172157,2024-06-21,269.7
+1322,Bicicleta Ergométrica,Esporte,3,899.9,Cartão de Crédito,Centro-Oeste,05072493,2024-06-22,2699.7
+1111,Smartwatch Fit,Eletrônicos,1,349.9,Boleto,Sudeste,09363648,2024-06-22,349.9
+1564,Livro - Hábitos Atômicos,Livros,2,44.9,Boleto,Sudeste,04569158,2024-06-23,89.8
+1010,Bicicleta Ergométrica,Esporte,3,899.9,Cartão de Débito,Sul,08433003,2024-06-23,2699.7
+1105,Mochila Executiva,Moda,2,159.9,Pix,Nordeste,02391904,2024-06-23,319.8
+1027,Jogo de Panelas,Casa e Decoração,3,189.9,Pix,Norte,09004257,2024-06-24,569.7
+1165,Bicicleta Ergométrica,Esporte,2,899.9,Boleto,Nordeste,01689294,2024-06-25,1799.8
+1489,Livro - O Poder do Hábito,Livros,2,39.9,Cartão de Crédito,Norte,09362413,2024-06-25,79.8
+1389,Bicicleta Ergométrica,Esporte,2,899.9,Boleto,Centro-Oeste,02972715,2024-06-26,1799.8
+1621,Luminária de Mesa,Casa e Decoração,1,89.9,Pix,Sul,03757767,2024-06-27,89.9
+1419,Carregador Portátil,Eletrônicos,2,79.9,Cartão de Débito,Nordeste,03627070,2024-06-27,159.8
+1181,Livro - O Poder do Hábito,Livros,3,39.9,Cartão de Débito,Norte,03086745,2024-06-27,119.7
+1033,Tênis de Corrida,Esporte,2,259.9,Boleto,Sul,01387675,2024-06-28,519.8
+1049,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Cartão de Crédito,Sudeste,01508972,2024-06-28,129.9
+1084,Jogo de Panelas,Casa e Decoração,2,189.9,Boleto,Norte,05106694,2024-06-29,379.8
+1205,Smartwatch Fit,Eletrônicos,1,349.9,Pix,Centro-Oeste,01202298,2024-06-30,349.9
+1417,Livro - O Poder do Hábito,Livros,1,39.9,Cartão de Crédito,Sul,08992238,2024-07-01,39.9
+1354,Tênis de Corrida,Esporte,1,259.9,Boleto,Sudeste,05671634,2024-07-01,259.9
+1308,Camiseta Básica,Moda,2,49.9,Boleto,Centro-Oeste,01313233,2024-07-02,99.8
+1309,Camiseta Básica,Moda,2,49.9,Boleto,Centro-Oeste,,2024-07-02,99.8
+1356,Livro - O Poder do Hábito,Livros,1,39.9,Pix,Centro-Oeste,08583456,2024-07-03,39.9
+1131,Livro - O Poder do Hábito,Livros,2,39.9,Cartão de Crédito,Centro-Oeste,08702044,2024-07-03,79.8
+1391,Mochila Executiva,Moda,1,159.9,Pix,Sul,09987269,2024-07-04,159.9
+1560,Cafeteira Elétrica,Casa e Decoração,2,219.9,Cartão de Débito,Nordeste,08799997,2024-07-04,439.8
+1529,Fone de Ouvido Bluetooth,Eletrônicos,3,129.9,Cartão de Débito,Nordeste,06477631,2024-07-05,389.7
+1430,Camiseta Básica,Moda,1,49.9,Boleto,Sul,05198830,2024-07-06,49.9
+1141,Carregador Portátil,Eletrônicos,2,79.9,Pix,Sul,02858026,2024-07-06,159.8
+1423,Luminária de Mesa,Casa e Decoração,1,89.9,Cartão de Crédito,Sudeste,04419671,2024-07-06,89.9
+1280,Camiseta Básica,Moda,2,49.9,Cartão de Crédito,Nordeste,08204476,2024-07-08,99.8
+1361,Tênis de Corrida,Esporte,1,259.9,Boleto,Norte,06918397,2024-07-08,259.9
+1362,Tênis de Corrida,Esporte,1,259.9,Boleto,Norte,,2024-07-08,259.9
+1091,Jogo de Panelas,Casa e Decoração,3,189.9,Cartão de Débito,Sul,06942101,2024-07-08,569.7
+1101,Smartwatch Fit,Eletrônicos,1,349.9,Cartão de Crédito,Norte,06400686,2024-07-09,349.9
+1254,Tênis de Corrida,Esporte,3,259.9,Cartão de Crédito,Norte,02565517,2024-07-09,779.7
+1245,Bicicleta Ergométrica,Esporte,1,899.9,Pix,Sudeste,01480343,2024-07-09,899.9
+1623,Livro - O Poder do Hábito,Livros,2,39.9,Cartão de Crédito,Nordeste,03519029,2024-07-10,79.8
+1289,Mochila Executiva,Moda,2,159.9,Boleto,Sudeste,06097726,2024-07-10,319.8
+1119,Smartwatch Fit,Eletrônicos,2,349.9,Pix,Sul,09624095,2024-07-11,699.8
+1364,Smartwatch Fit,Eletrônicos,1,349.9,Boleto,Norte,07649361,2024-07-11,349.9
+1120,Smartwatch Fit,Eletrônicos,2,349.9,Não informado,Sul,09624095,2024-07-11,699.8
+1418,Tênis de Corrida,Esporte,3,259.9,Boleto,Nordeste,01646496,2024-07-12,779.7
+1453,Fone de Ouvido Bluetooth,Eletrônicos,3,129.9,Cartão de Débito,Norte,09784537,2024-07-13,389.7
+1198,Fone de Ouvido Bluetooth,Eletrônicos,2,129.9,Cartão de Débito,Sudeste,01154719,2024-07-13,259.8
+1182,Cafeteira Elétrica,Casa e Decoração,2,219.9,Boleto,Centro-Oeste,06671158,2024-07-13,439.8
+1206,Tênis de Corrida,Esporte,3,259.9,Pix,Nordeste,05397504,2024-07-13,779.7
+1625,Smartwatch Fit,Eletrônicos,2,349.9,Pix,Sul,04933988,2024-07-14,699.8
+1491,Livro - Hábitos Atômicos,Livros,2,44.9,Boleto,Sul,08780142,2024-07-14,89.8
+1088,Livro - Hábitos Atômicos,Livros,2,44.9,Pix,Sudeste,04830482,2024-07-14,89.8
+1140,Livro - O Poder do Hábito,Livros,1,39.9,Cartão de Crédito,Norte,03513695,2024-07-15,39.9
+1273,Smartwatch Fit,Eletrônicos,1,349.9,Cartão de Débito,Sul,07783504,2024-07-16,349.9
+1343,Livro - Hábitos Atômicos,Livros,1,44.9,Pix,Sudeste,09468841,2024-07-16,44.9
+1239,Fone de Ouvido Bluetooth,Eletrônicos,2,129.9,Cartão de Débito,Norte,02163540,2024-07-16,259.8
+1284,Luminária de Mesa,Casa e Decoração,1,89.9,Pix,Nordeste,09514469,2024-07-17,89.9
+1451,Cafeteira Elétrica,Casa e Decoração,1,219.9,Boleto,Sul,04166231,2024-07-17,219.9
+1582,Mochila Executiva,Moda,1,159.9,Cartão de Crédito,Norte,09037675,2024-07-18,159.9
+1377,Livro - O Poder do Hábito,Livros,1,39.9,Cartão de Crédito,Sudeste,03381482,2024-07-18,39.9
+1219,Carregador Portátil,Eletrônicos,2,79.9,Pix,Nordeste,08501632,2024-07-19,159.8
+1483,Camiseta Básica,Moda,1,49.9,Pix,Nordeste,08426499,2024-07-19,49.9
+1602,Cafeteira Elétrica,Casa e Decoração,1,219.9,Pix,Nordeste,02478958,2024-07-20,219.9
+1445,Tênis de Corrida,Esporte,1,259.9,Cartão de Crédito,Centro-Oeste,09531983,2024-07-20,259.9
+1633,Bicicleta Ergométrica,Esporte,1,899.9,Boleto,Centro-Oeste,08539708,2024-07-21,899.9
+1234,Livro - O Poder do Hábito,Livros,1,39.9,Boleto,Centro-Oeste,02494720,2024-07-21,39.9
+1197,Jogo de Panelas,Casa e Decoração,1,189.9,Cartão de Débito,Centro-Oeste,04984713,2024-07-22,189.9
+1259,Tênis de Corrida,Esporte,1,259.9,Cartão de Crédito,Norte,05240939,2024-07-24,259.9
+1318,Livro - Hábitos Atômicos,Livros,1,44.9,Cartão de Débito,Nordeste,07319706,2024-07-24,44.9
+1537,Bicicleta Ergométrica,Esporte,3,899.9,Boleto,Nordeste,05846244,2024-07-27,2699.7
+1382,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Cartão de Crédito,Norte,05821348,2024-07-27,129.9
+1056,Tênis de Corrida,Esporte,1,259.9,Boleto,Centro-Oeste,09041458,2024-07-27,259.9
+1557,Mochila Executiva,Moda,1,159.9,Pix,Centro-Oeste,03865569,2024-07-28,159.9
+1593,Livro - O Poder do Hábito,Livros,2,39.9,Cartão de Crédito,Sul,07757273,2024-07-29,79.8
+1449,Camiseta Básica,Moda,1,49.9,Pix,Centro-Oeste,,2024-07-30,49.9
+1470,Bicicleta Ergométrica,Esporte,2,899.9,Cartão de Crédito,Norte,05904578,2024-07-30,1799.8
+1448,Camiseta Básica,Moda,1,49.9,Pix,Centro-Oeste,05485155,2024-07-30,49.9
+1471,Bicicleta Ergométrica,Esporte,2,899.9,Cartão de Crédito,Norte,,2024-07-30,1799.8
+1456,Camiseta Básica,Moda,2,49.9,Cartão de Crédito,Sul,08433604,2024-07-30,99.8
+1151,Fone de Ouvido Bluetooth,Eletrônicos,2,129.9,Boleto,Nordeste,03353320,2024-07-31,259.8
+1285,Bicicleta Ergométrica,Esporte,1,899.9,Cartão de Crédito,Sudeste,02654804,2024-07-31,899.9
+1591,Livro - O Poder do Hábito,Livros,1,39.9,Cartão de Débito,Norte,03958902,2024-07-31,39.9
+1169,Luminária de Mesa,Casa e Decoração,1,89.9,Boleto,Sudeste,07504806,2024-08-01,89.9
+1432,Livro - Hábitos Atômicos,Livros,2,44.9,Cartão de Crédito,Sul,01187649,2024-08-01,89.8
+1170,Luminária de Mesa,Casa e Decoração,1,89.9,Boleto,Sudeste,,2024-08-01,89.9
+1240,Camiseta Básica,Moda,2,49.9,Boleto,Centro-Oeste,02195017,2024-08-03,99.8
+1096,Fone de Ouvido Bluetooth,Eletrônicos,3,129.9,Cartão de Crédito,Centro-Oeste,08344796,2024-08-03,389.7
+1600,Smartwatch Fit,Eletrônicos,2,349.9,Boleto,Nordeste,,2024-08-04,699.8
+1599,Smartwatch Fit,Eletrônicos,2,349.9,Boleto,Nordeste,03374371,2024-08-04,699.8
+1494,Livro - Hábitos Atômicos,Livros,1,44.9,Cartão de Débito,Sul,09220275,2024-08-05,44.9
+1576,Mochila Executiva,Moda,1,159.9,Pix,Norte,05472774,2024-08-05,159.9
+1567,Tênis de Corrida,Esporte,1,259.9,Cartão de Crédito,Sudeste,01308793,2024-08-05,259.9
+1495,Livro - Hábitos Atômicos,Livros,1,44.9,Não informado,Sul,09220275,2024-08-05,44.9
+1481,Mochila Executiva,Moda,1,159.9,Cartão de Débito,Norte,06826319,2024-08-06,159.9
+1510,Smartwatch Fit,Eletrônicos,1,349.9,Pix,Nordeste,03653799,2024-08-06,349.9
+1535,Jogo de Panelas,Casa e Decoração,3,189.9,Boleto,Sul,06362444,2024-08-07,569.7
+1213,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Crédito,Nordeste,04637522,2024-08-08,79.9
+1137,Smartwatch Fit,Eletrônicos,1,349.9,Boleto,Norte,05813328,2024-08-08,349.9
+1080,Jogo de Panelas,Casa e Decoração,1,189.9,Cartão de Débito,Norte,03950174,2024-08-08,189.9
+1415,Smartwatch Fit,Eletrônicos,3,349.9,Boleto,Nordeste,02960405,2024-08-10,1049.7
+1035,Fone de Ouvido Bluetooth,Eletrônicos,2,129.9,Pix,Centro-Oeste,09379118,2024-08-10,259.8
+1136,Mochila Executiva,Moda,3,159.9,Cartão de Débito,Nordeste,04060508,2024-08-13,479.7
+1208,Carregador Portátil,Eletrônicos,1,79.9,Boleto,Nordeste,06253617,2024-08-13,79.9
+1085,Livro - O Poder do Hábito,Livros,1,39.9,Pix,Sul,02476931,2024-08-13,39.9
+1383,Carregador Portátil,Eletrônicos,3,79.9,Cartão de Débito,Sul,06565984,2024-08-14,239.7
+1606,Livro - O Poder do Hábito,Livros,3,39.9,Boleto,Sudeste,07564204,2024-08-15,119.7
+1274,Cafeteira Elétrica,Casa e Decoração,1,219.9,Cartão de Crédito,Nordeste,01328326,2024-08-19,219.9
+1090,Bicicleta Ergométrica,Esporte,2,899.9,Cartão de Débito,Norte,03531906,2024-08-20,1799.8
+1077,Cafeteira Elétrica,Casa e Decoração,2,219.9,Boleto,Centro-Oeste,03529076,2024-08-21,439.8
+1246,Carregador Portátil,Eletrônicos,2,79.9,Cartão de Crédito,Centro-Oeste,03734376,2024-08-21,159.8
+1544,Livro - O Poder do Hábito,Livros,1,39.9,Cartão de Débito,Sul,05724981,2024-08-22,39.9
+1413,Tênis de Corrida,Esporte,1,259.9,Cartão de Crédito,Norte,04415484,2024-08-23,259.9
+1565,Luminária de Mesa,Casa e Decoração,2,89.9,Cartão de Crédito,Sul,01284491,2024-08-23,179.8
+1610,Livro - O Poder do Hábito,Livros,1,39.9,Boleto,Sudeste,07570632,2024-08-24,39.9
+1081,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Débito,Nordeste,01153920,2024-08-24,79.9
+1411,Jogo de Panelas,Casa e Decoração,1,189.9,Cartão de Crédito,Nordeste,02314863,2024-08-25,189.9
+1042,Smartwatch Fit,Eletrônicos,1,349.9,Pix,Centro-Oeste,09270436,2024-08-25,349.9
+1190,Livro - Hábitos Atômicos,Livros,2,44.9,Pix,Nordeste,05285368,2024-08-26,89.8
+1440,Tênis de Corrida,Esporte,1,259.9,Cartão de Crédito,Sudeste,07367676,2024-08-26,259.9
+1441,Tênis de Corrida,Esporte,1,259.9,Cartão de Crédito,Sudeste,,2024-08-26,259.9
+1629,Cafeteira Elétrica,Casa e Decoração,1,219.9,Cartão de Débito,Nordeste,03434130,2024-08-27,219.9
+1066,Jogo de Panelas,Casa e Decoração,1,189.9,Cartão de Débito,Nordeste,09199552,2024-08-27,189.9
+1536,Mochila Executiva,Moda,1,159.9,Cartão de Crédito,Centro-Oeste,09701403,2024-08-28,159.9
+1497,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Crédito,Norte,06119627,2024-08-29,79.9
+1498,Carregador Portátil,Eletrônicos,1,79.9,Não informado,Norte,06119627,2024-08-29,79.9
+1160,Luminária de Mesa,Casa e Decoração,2,89.9,Boleto,Sudeste,08871174,2024-08-30,179.8
+1135,Jogo de Panelas,Casa e Decoração,2,189.9,Boleto,Nordeste,06848882,2024-08-30,379.8
+1279,Livro - O Poder do Hábito,Livros,1,39.9,Pix,Centro-Oeste,08715500,2024-08-30,39.9
+1215,Tênis de Corrida,Esporte,1,259.9,Cartão de Débito,Nordeste,02100307,2024-08-31,259.9
+1287,Livro - Hábitos Atômicos,Livros,1,44.9,Pix,Sudeste,06535837,2024-08-31,44.9
+1574,Mochila Executiva,Moda,1,159.9,Pix,Sul,01209690,2024-08-31,159.9
+1396,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Cartão de Crédito,Centro-Oeste,06483266,2024-08-31,129.9
+1168,Camiseta Básica,Moda,3,49.9,Boleto,Nordeste,06262292,2024-08-31,149.7
+1542,Bicicleta Ergométrica,Esporte,3,899.9,Boleto,Sul,06250361,2024-09-01,2699.7
+1476,Camiseta Básica,Moda,1,49.9,Não informado,Nordeste,03347787,2024-09-04,49.9
+1475,Camiseta Básica,Moda,1,49.9,Pix,Nordeste,03347787,2024-09-04,49.9
+1439,Bicicleta Ergométrica,Esporte,2,899.9,Boleto,Sudeste,07170596,2024-09-04,1799.8
+1073,Luminária de Mesa,Casa e Decoração,2,89.9,Boleto,Centro-Oeste,03369392,2024-09-04,179.8
+1121,Camiseta Básica,Moda,1,49.9,Boleto,Sul,02264302,2024-09-05,49.9
+1222,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Cartão de Débito,Norte,09281668,2024-09-05,129.9
+1230,Luminária de Mesa,Casa e Decoração,2,89.9,Cartão de Crédito,Sudeste,08511650,2024-09-06,179.8
+1221,Mochila Executiva,Moda,1,159.9,Boleto,Norte,03733501,2024-09-06,159.9
+1267,Cafeteira Elétrica,Casa e Decoração,1,219.9,Cartão de Crédito,Sul,04584020,2024-09-08,219.9
+1618,Camiseta Básica,Moda,3,49.9,Boleto,Norte,08208054,2024-09-08,149.7
+1554,Bicicleta Ergométrica,Esporte,1,899.9,Cartão de Crédito,Nordeste,07513151,2024-09-08,899.9
+1619,Camiseta Básica,Moda,3,49.9,Não informado,Norte,08208054,2024-09-08,149.7
+1460,Bicicleta Ergométrica,Esporte,2,899.9,Cartão de Débito,Centro-Oeste,07719452,2024-09-09,1799.8
+1612,Jogo de Panelas,Casa e Decoração,3,189.9,Cartão de Débito,Sul,04531843,2024-09-10,569.7
+1588,Livro - O Poder do Hábito,Livros,1,39.9,Pix,Sul,05907372,2024-09-11,39.9
+1313,Jogo de Panelas,Casa e Decoração,1,189.9,Boleto,Nordeste,09571996,2024-09-11,189.9
+1314,Jogo de Panelas,Casa e Decoração,1,189.9,Não informado,Nordeste,09571996,2024-09-11,189.9
+1578,Smartwatch Fit,Eletrônicos,1,349.9,Boleto,Centro-Oeste,06356156,2024-09-12,349.9
+1086,Bicicleta Ergométrica,Esporte,2,899.9,Boleto,Nordeste,08894990,2024-09-13,1799.8
+1444,Livro - O Poder do Hábito,Livros,1,39.9,Cartão de Crédito,Nordeste,07343911,2024-09-13,39.9
+1543,Livro - Hábitos Atômicos,Livros,2,44.9,Cartão de Crédito,Centro-Oeste,09714694,2024-09-13,89.8
+1196,Jogo de Panelas,Casa e Decoração,1,189.9,Cartão de Débito,Sul,02753940,2024-09-14,189.9
+1433,Livro - Hábitos Atômicos,Livros,1,44.9,Boleto,Sudeste,07436994,2024-09-14,44.9
+1571,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Cartão de Débito,Nordeste,04033450,2024-09-15,129.9
+1154,Fone de Ouvido Bluetooth,Eletrônicos,2,129.9,Boleto,Sul,06781049,2024-09-15,259.8
+1114,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Débito,Centro-Oeste,01616058,2024-09-16,79.9
+1115,Smartwatch Fit,Eletrônicos,2,349.9,Cartão de Crédito,Centro-Oeste,04084329,2024-09-16,699.8
+1247,Smartwatch Fit,Eletrônicos,3,349.9,Cartão de Crédito,Sul,01753483,2024-09-17,1049.7
+1442,Mochila Executiva,Moda,2,159.9,Cartão de Crédito,Nordeste,08940887,2024-09-17,319.8
+1144,Livro - O Poder do Hábito,Livros,1,39.9,Boleto,Sul,04878809,2024-09-17,39.9
+1034,Jogo de Panelas,Casa e Decoração,3,189.9,Pix,Sudeste,02889898,2024-09-17,569.7
+1178,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Crédito,Centro-Oeste,03161525,2024-09-18,79.9
+1224,Luminária de Mesa,Casa e Decoração,2,89.9,Cartão de Crédito,Nordeste,09898843,2024-09-18,179.8
+1627,Livro - Hábitos Atômicos,Livros,1,44.9,Cartão de Débito,Centro-Oeste,08805274,2024-09-19,44.9
+1344,Livro - O Poder do Hábito,Livros,1,39.9,Cartão de Crédito,Sul,09814546,2024-09-20,39.9
+1572,Mochila Executiva,Moda,1,159.9,Cartão de Crédito,Nordeste,03025477,2024-09-20,159.9
+1070,Livro - Hábitos Atômicos,Livros,2,44.9,Cartão de Crédito,Norte,08569423,2024-09-20,89.8
+1130,Cafeteira Elétrica,Casa e Decoração,3,219.9,Boleto,Nordeste,08032001,2024-09-20,659.7
+1152,Mochila Executiva,Moda,1,159.9,Pix,Sul,08642125,2024-09-20,159.9
+1395,Cafeteira Elétrica,Casa e Decoração,3,219.9,Pix,Centro-Oeste,05915256,2024-09-21,659.7
+1125,Livro - Hábitos Atômicos,Livros,3,44.9,Pix,Sudeste,03626279,2024-09-21,134.7
+1014,Livro - O Poder do Hábito,Livros,2,39.9,Boleto,Sul,02049346,2024-09-21,79.8
+1015,Livro - O Poder do Hábito,Livros,2,39.9,Boleto,Sul,,2024-09-21,79.8
+1158,Camiseta Básica,Moda,2,49.9,Boleto,Nordeste,06218166,2024-09-22,99.8
+1363,Livro - Hábitos Atômicos,Livros,3,44.9,Pix,Nordeste,09918583,2024-09-23,134.7
+1370,Smartwatch Fit,Eletrônicos,1,349.9,Cartão de Débito,Sul,02577181,2024-09-24,349.9
+1421,Bicicleta Ergométrica,Esporte,1,899.9,Boleto,Norte,05638330,2024-09-25,899.9
+1611,Camiseta Básica,Moda,1,49.9,Cartão de Débito,Centro-Oeste,02941229,2024-09-26,49.9
+1263,Mochila Executiva,Moda,3,159.9,Cartão de Crédito,Centro-Oeste,06883491,2024-09-26,479.7
+1553,Carregador Portátil,Eletrônicos,2,79.9,Pix,Sul,01369085,2024-09-26,159.8
+1013,Bicicleta Ergométrica,Esporte,1,899.9,Cartão de Débito,Sul,09835773,2024-09-27,899.9
+1306,Livro - Hábitos Atômicos,Livros,1,44.9,Cartão de Crédito,Sul,04707710,2024-09-28,44.9
+1504,Cafeteira Elétrica,Casa e Decoração,2,219.9,Cartão de Débito,Centro-Oeste,05302148,2024-09-29,439.8
+1515,Livro - O Poder do Hábito,Livros,1,39.9,Pix,Sudeste,08530778,2024-09-30,39.9
+1516,Livro - O Poder do Hábito,Livros,1,39.9,Não informado,Sudeste,08530778,2024-09-30,39.9
+1218,Smartwatch Fit,Eletrônicos,1,349.9,Pix,Sul,08496116,2024-10-01,349.9
+1155,Livro - O Poder do Hábito,Livros,1,39.9,Cartão de Crédito,Centro-Oeste,03194903,2024-10-01,39.9
+1243,Bicicleta Ergométrica,Esporte,1,899.9,Cartão de Crédito,Nordeste,08167747,2024-10-01,899.9
+1025,Carregador Portátil,Eletrônicos,1,79.9,Pix,Sul,06718902,2024-10-02,79.9
+1046,Jogo de Panelas,Casa e Decoração,2,189.9,Boleto,Centro-Oeste,04595279,2024-10-02,379.8
+1227,Bicicleta Ergométrica,Esporte,2,899.9,Pix,Nordeste,05380975,2024-10-02,1799.8
+1454,Fone de Ouvido Bluetooth,Eletrônicos,2,129.9,Cartão de Crédito,Norte,07347528,2024-10-02,259.8
+1403,Livro - Hábitos Atômicos,Livros,2,44.9,Cartão de Débito,Sul,09835181,2024-10-03,89.8
+1044,Jogo de Panelas,Casa e Decoração,1,189.9,Boleto,Sul,07275710,2024-10-03,189.9
+1401,Smartwatch Fit,Eletrônicos,2,349.9,Cartão de Débito,Norte,02363106,2024-10-07,699.8
+1414,Luminária de Mesa,Casa e Decoração,3,89.9,Pix,Centro-Oeste,05895203,2024-10-08,269.7
+1381,Luminária de Mesa,Casa e Decoração,1,89.9,Pix,Nordeste,05530231,2024-10-08,89.9
+1324,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Cartão de Débito,Sul,02291470,2024-10-08,129.9
+1210,Tênis de Corrida,Esporte,3,259.9,Cartão de Débito,Sul,08183816,2024-10-08,779.7
+1534,Camiseta Básica,Moda,2,49.9,Cartão de Crédito,Centro-Oeste,09548500,2024-10-10,99.8
+1093,Camiseta Básica,Moda,1,49.9,Boleto,Sul,06383792,2024-10-10,49.9
+1394,Smartwatch Fit,Eletrônicos,1,349.9,Não informado,Sul,03389819,2024-10-11,349.9
+1393,Smartwatch Fit,Eletrônicos,1,349.9,Cartão de Débito,Sul,03389819,2024-10-11,349.9
+1375,Tênis de Corrida,Esporte,2,259.9,Pix,Norte,08925259,2024-10-12,519.8
+1187,Bicicleta Ergométrica,Esporte,2,899.9,Cartão de Débito,Sul,05177208,2024-10-12,1799.8
+1479,Smartwatch Fit,Eletrônicos,2,349.9,Boleto,Norte,06739562,2024-10-13,699.8
+1301,Luminária de Mesa,Casa e Decoração,3,89.9,Boleto,Nordeste,02463227,2024-10-13,269.7
+1490,Fone de Ouvido Bluetooth,Eletrônicos,3,129.9,Pix,Sudeste,05623886,2024-10-13,389.7
+1030,Tênis de Corrida,Esporte,1,259.9,Cartão de Débito,Norte,03532947,2024-10-13,259.9
+1156,Mochila Executiva,Moda,2,159.9,Pix,Sudeste,07329516,2024-10-14,319.8
+1342,Carregador Portátil,Eletrônicos,2,79.9,Cartão de Crédito,Sudeste,06668456,2024-10-14,159.8
+1326,Livro - O Poder do Hábito,Livros,2,39.9,Cartão de Débito,Nordeste,06953845,2024-10-14,79.8
+1368,Camiseta Básica,Moda,2,49.9,Pix,Sudeste,04548459,2024-10-15,99.8
+1159,Bicicleta Ergométrica,Esporte,3,899.9,Cartão de Crédito,Nordeste,06427689,2024-10-15,2699.7
+1223,Cafeteira Elétrica,Casa e Decoração,1,219.9,Boleto,Nordeste,01535281,2024-10-16,219.9
+1482,Bicicleta Ergométrica,Esporte,2,899.9,Cartão de Débito,Sudeste,08464317,2024-10-17,1799.8
+1450,Carregador Portátil,Eletrônicos,2,79.9,Boleto,Sul,01427367,2024-10-17,159.8
+1533,Camiseta Básica,Moda,3,49.9,Boleto,Sudeste,08627469,2024-10-18,149.7
+1023,Tênis de Corrida,Esporte,1,259.9,Cartão de Crédito,Norte,02343429,2024-10-18,259.9
+1038,Luminária de Mesa,Casa e Decoração,2,89.9,Cartão de Crédito,Nordeste,05700215,2024-10-18,179.8
+1570,Luminária de Mesa,Casa e Decoração,2,89.9,Cartão de Crédito,Norte,04555732,2024-10-18,179.8
+1622,Tênis de Corrida,Esporte,2,259.9,Cartão de Crédito,Sul,09161693,2024-10-19,519.8
+1060,Cafeteira Elétrica,Casa e Decoração,1,219.9,Cartão de Débito,Centro-Oeste,06582188,2024-10-20,219.9
+1397,Livro - Hábitos Atômicos,Livros,2,44.9,Boleto,Nordeste,06818332,2024-10-21,89.8
+1426,Luminária de Mesa,Casa e Decoração,3,89.9,Cartão de Débito,Centro-Oeste,02705170,2024-10-22,269.7
+1113,Cafeteira Elétrica,Casa e Decoração,2,219.9,Pix,Nordeste,03473450,2024-10-23,439.8
+1561,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Pix,Centro-Oeste,03219365,2024-10-24,129.9
+1496,Luminária de Mesa,Casa e Decoração,1,89.9,Cartão de Crédito,Sul,09624879,2024-10-24,89.9
+1057,Tênis de Corrida,Esporte,3,259.9,Pix,Centro-Oeste,06419360,2024-10-24,779.7
+1174,Jogo de Panelas,Casa e Decoração,1,189.9,Cartão de Crédito,Nordeste,06890709,2024-10-25,189.9
+1584,Camiseta Básica,Moda,1,49.9,Pix,Centro-Oeste,02594438,2024-10-25,49.9
+1538,Camiseta Básica,Moda,2,49.9,Cartão de Débito,Centro-Oeste,03271895,2024-10-25,99.8
+1355,Carregador Portátil,Eletrônicos,3,79.9,Pix,Nordeste,08017172,2024-10-26,239.7
+1556,Mochila Executiva,Moda,1,159.9,Boleto,Sul,05968486,2024-10-27,159.9
+1372,Cafeteira Elétrica,Casa e Decoração,1,219.9,Cartão de Crédito,Centro-Oeste,03193260,2024-10-28,219.9
+1226,Tênis de Corrida,Esporte,3,259.9,Cartão de Débito,Sul,03281803,2024-10-28,779.7
+1358,Carregador Portátil,Eletrônicos,2,79.9,Cartão de Crédito,Norte,05269556,2024-10-29,159.8
+1518,Tênis de Corrida,Esporte,3,259.9,Cartão de Débito,Sudeste,09856658,2024-10-30,779.7
+1054,Cafeteira Elétrica,Casa e Decoração,2,219.9,Boleto,Sudeste,05569902,2024-10-30,439.8
+1519,Tênis de Corrida,Esporte,3,259.9,Não informado,Sudeste,09856658,2024-10-30,779.7
+1416,Luminária de Mesa,Casa e Decoração,3,89.9,Cartão de Crédito,Sul,03583511,2024-11-01,269.7
+1062,Bicicleta Ergométrica,Esporte,2,899.9,Boleto,Norte,07232461,2024-11-01,1799.8
+1406,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Cartão de Crédito,Norte,07121193,2024-11-01,129.9
+1102,Mochila Executiva,Moda,1,159.9,Cartão de Crédito,Norte,09313217,2024-11-03,159.9
+1484,Camiseta Básica,Moda,1,49.9,Cartão de Crédito,Centro-Oeste,02752333,2024-11-05,49.9
+1099,Jogo de Panelas,Casa e Decoração,2,189.9,Cartão de Crédito,Norte,04522440,2024-11-05,379.8
+1286,Livro - O Poder do Hábito,Livros,2,39.9,Boleto,Nordeste,07602147,2024-11-07,79.8
+1123,Livro - Hábitos Atômicos,Livros,2,44.9,Cartão de Débito,Sul,09749244,2024-11-08,89.8
+1522,Jogo de Panelas,Casa e Decoração,2,189.9,Cartão de Crédito,Sudeste,02870509,2024-11-08,379.8
+1532,Mochila Executiva,Moda,1,159.9,Cartão de Débito,Nordeste,03234468,2024-11-08,159.9
+1244,Mochila Executiva,Moda,2,159.9,Pix,Sul,02956012,2024-11-09,319.8
+1465,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Débito,Centro-Oeste,03947904,2024-11-10,79.9
+1501,Jogo de Panelas,Casa e Decoração,1,189.9,Pix,Sudeste,02827618,2024-11-11,189.9
+1237,Livro - O Poder do Hábito,Livros,2,39.9,Boleto,Sudeste,02646143,2024-11-11,79.8
+1262,Fone de Ouvido Bluetooth,Eletrônicos,2,129.9,Pix,Centro-Oeste,07750903,2024-11-11,259.8
+1340,Carregador Portátil,Eletrônicos,3,79.9,Pix,Centro-Oeste,06866074,2024-11-11,239.7
+1203,Livro - O Poder do Hábito,Livros,1,39.9,Boleto,Sudeste,02344274,2024-11-12,39.9
+1485,Mochila Executiva,Moda,1,159.9,Boleto,Centro-Oeste,07288067,2024-11-13,159.9
+1232,Fone de Ouvido Bluetooth,Eletrônicos,1,129.9,Cartão de Débito,Sudeste,03035951,2024-11-16,129.9
+1528,Bicicleta Ergométrica,Esporte,2,899.9,Pix,Sudeste,04173115,2024-11-16,1799.8
+1148,Livro - O Poder do Hábito,Livros,1,39.9,Cartão de Crédito,Norte,03762606,2024-11-16,39.9
+1150,Mochila Executiva,Moda,2,159.9,Pix,Centro-Oeste,05012824,2024-11-17,319.8
+1628,Livro - Hábitos Atômicos,Livros,2,44.9,Cartão de Crédito,Norte,06599996,2024-11-18,89.8
+1464,Smartwatch Fit,Eletrônicos,3,349.9,Cartão de Crédito,Centro-Oeste,05705437,2024-11-18,1049.7
+1229,Cafeteira Elétrica,Casa e Decoração,2,219.9,Cartão de Débito,Centro-Oeste,08405077,2024-11-19,439.8
+1211,Mochila Executiva,Moda,1,159.9,Pix,Sul,07932808,2024-11-20,159.9
+1053,Smartwatch Fit,Eletrônicos,1,349.9,Cartão de Débito,Sul,08135180,2024-11-21,349.9
+1592,Luminária de Mesa,Casa e Decoração,1,89.9,Cartão de Débito,Norte,01981534,2024-11-22,89.9
+1139,Fone de Ouvido Bluetooth,Eletrônicos,3,129.9,Boleto,Sudeste,03339869,2024-11-22,389.7
+1420,Livro - Hábitos Atômicos,Livros,1,44.9,Boleto,Sudeste,06965794,2024-11-22,44.9
+1404,Carregador Portátil,Eletrônicos,2,79.9,Pix,Nordeste,08891552,2024-11-23,159.8
+1493,Camiseta Básica,Moda,1,49.9,Cartão de Débito,Norte,07974638,2024-11-24,49.9
+1348,Smartwatch Fit,Eletrônicos,1,349.9,Cartão de Crédito,Norte,01745717,2024-11-24,349.9
+1323,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Débito,Centro-Oeste,03709076,2024-11-25,79.9
+1238,Camiseta Básica,Moda,1,49.9,Pix,Sudeste,05942210,2024-11-26,49.9
+1116,Livro - Hábitos Atômicos,Livros,2,44.9,Boleto,Centro-Oeste,08199536,2024-11-26,89.8
+1586,Tênis de Corrida,Esporte,1,259.9,Cartão de Crédito,Sudeste,,2024-11-27,259.9
+1336,Carregador Portátil,Eletrônicos,1,79.9,Boleto,Norte,05712709,2024-11-27,79.9
+1585,Tênis de Corrida,Esporte,1,259.9,Cartão de Crédito,Sudeste,05995117,2024-11-27,259.9
+1636,Fone de Ouvido Bluetooth,Eletrônicos,2,129.9,Boleto,Centro-Oeste,09824195,2024-11-28,259.8
+1068,Camiseta Básica,Moda,2,49.9,Pix,Sul,08141650,2024-11-29,99.8
+1294,Livro - O Poder do Hábito,Livros,1,39.9,Não informado,Sudeste,08767933,2024-11-29,39.9
+1293,Livro - O Poder do Hábito,Livros,1,39.9,Cartão de Crédito,Sudeste,08767933,2024-11-29,39.9
+1026,Bicicleta Ergométrica,Esporte,2,899.9,Pix,Sudeste,03200270,2024-11-30,1799.8
+1018,Luminária de Mesa,Casa e Decoração,3,89.9,Cartão de Crédito,Sudeste,07596745,2024-11-30,269.7
+1559,Livro - O Poder do Hábito,Livros,1,39.9,Pix,Centro-Oeste,03938503,2024-11-30,39.9
+1325,Livro - Hábitos Atômicos,Livros,2,44.9,Cartão de Débito,Centro-Oeste,01587570,2024-11-30,89.8
+1225,Tênis de Corrida,Esporte,1,259.9,Pix,Sudeste,08368269,2024-11-30,259.9
+1228,Mochila Executiva,Moda,1,159.9,Boleto,Sul,03396728,2024-12-01,159.9
+1248,Fone de Ouvido Bluetooth,Eletrônicos,3,129.9,Pix,Sul,07819937,2024-12-01,389.7
+1007,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Débito,Sul,05339142,2024-12-01,79.9
+1041,Mochila Executiva,Moda,1,159.9,Cartão de Crédito,Centro-Oeste,04585180,2024-12-01,159.9
+1133,Livro - Hábitos Atômicos,Livros,3,44.9,Pix,Sul,01726360,2024-12-02,134.7
+1331,Camiseta Básica,Moda,2,49.9,Pix,Norte,07302428,2024-12-02,99.8
+1327,Carregador Portátil,Eletrônicos,2,79.9,Cartão de Débito,Sudeste,02596777,2024-12-02,159.8
+1371,Smartwatch Fit,Eletrônicos,2,349.9,Cartão de Crédito,Centro-Oeste,09553430,2024-12-03,699.8
+1458,Camiseta Básica,Moda,2,49.9,Boleto,Sul,03930787,2024-12-03,99.8
+1097,Carregador Portátil,Eletrônicos,3,79.9,Cartão de Débito,Sudeste,01996490,2024-12-03,239.7
+1106,Smartwatch Fit,Eletrônicos,2,349.9,Cartão de Débito,Centro-Oeste,05475220,2024-12-04,699.8
+1312,Fone de Ouvido Bluetooth,Eletrônicos,2,129.9,Pix,Norte,03247428,2024-12-04,259.8
+1488,Carregador Portátil,Eletrônicos,1,79.9,Pix,Centro-Oeste,08326200,2024-12-04,79.9
+1503,Mochila Executiva,Moda,1,159.9,Boleto,Sul,06653055,2024-12-04,159.9
+1631,Bicicleta Ergométrica,Esporte,1,899.9,Boleto,Centro-Oeste,01741085,2024-12-04,899.9
+1486,Livro - Hábitos Atômicos,Livros,1,44.9,Cartão de Débito,Sudeste,08584333,2024-12-05,44.9
+1076,Luminária de Mesa,Casa e Decoração,2,89.9,Boleto,Centro-Oeste,01606129,2024-12-05,179.8
+1597,Bicicleta Ergométrica,Esporte,2,899.9,Pix,Centro-Oeste,02478243,2024-12-06,1799.8
+1107,Livro - O Poder do Hábito,Livros,2,39.9,Boleto,Centro-Oeste,01897007,2024-12-07,79.8
+1281,Luminária de Mesa,Casa e Decoração,1,89.9,Cartão de Débito,Norte,04727566,2024-12-08,89.9
+1569,Tênis de Corrida,Esporte,1,259.9,Cartão de Crédito,Sul,05544971,2024-12-09,259.9
+1436,Carregador Portátil,Eletrônicos,1,79.9,Pix,Nordeste,04120328,2024-12-09,79.9
+1601,Fone de Ouvido Bluetooth,Eletrônicos,3,129.9,Cartão de Débito,Nordeste,06945924,2024-12-09,389.7
+1492,Mochila Executiva,Moda,1,159.9,Cartão de Crédito,Sudeste,01257147,2024-12-09,159.9
+1615,Cafeteira Elétrica,Casa e Decoração,2,219.9,Cartão de Crédito,Sudeste,05155516,2024-12-09,439.8
+1634,Carregador Portátil,Eletrônicos,3,79.9,Cartão de Débito,Nordeste,02435128,2024-12-10,239.7
+1385,Jogo de Panelas,Casa e Decoração,2,189.9,Pix,Sudeste,03924487,2024-12-10,379.8
+1078,Livro - O Poder do Hábito,Livros,1,39.9,Cartão de Débito,Nordeste,08994893,2024-12-11,39.9
+1087,Smartwatch Fit,Eletrônicos,1,349.9,Cartão de Débito,Norte,06992092,2024-12-12,349.9
+1387,Smartwatch Fit,Eletrônicos,1,349.9,Cartão de Débito,Norte,01108782,2024-12-12,349.9
+1117,Mochila Executiva,Moda,1,159.9,Pix,Sudeste,06401096,2024-12-13,159.9
+1552,Cafeteira Elétrica,Casa e Decoração,1,219.9,Pix,Sudeste,07580632,2024-12-13,219.9
+1146,Smartwatch Fit,Eletrônicos,2,349.9,Boleto,Norte,03981786,2024-12-14,699.8
+1163,Bicicleta Ergométrica,Esporte,3,899.9,Pix,Norte,08932196,2024-12-14,2699.7
+1005,Livro - O Poder do Hábito,Livros,3,39.9,Boleto,Norte,05010167,2024-12-15,119.7
+1487,Smartwatch Fit,Eletrônicos,1,349.9,Cartão de Débito,Nordeste,09098660,2024-12-16,349.9
+1607,Tênis de Corrida,Esporte,2,259.9,Pix,Centro-Oeste,08837894,2024-12-17,519.8
+1036,Fone de Ouvido Bluetooth,Eletrônicos,2,129.9,Boleto,Nordeste,08066071,2024-12-17,259.8
+1257,Smartwatch Fit,Eletrônicos,1,349.9,Cartão de Crédito,Sul,06370151,2024-12-17,349.9
+1064,Fone de Ouvido Bluetooth,Eletrônicos,2,129.9,Pix,Sudeste,04792295,2024-12-18,259.8
+1292,Camiseta Básica,Moda,3,49.9,Cartão de Crédito,Centro-Oeste,01813166,2024-12-18,149.7
+1311,Smartwatch Fit,Eletrônicos,1,349.9,Cartão de Débito,Centro-Oeste,03024560,2024-12-19,349.9
+1507,Tênis de Corrida,Esporte,3,259.9,Pix,Norte,01173688,2024-12-19,779.7
+1138,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Débito,Sudeste,06776629,2024-12-19,79.9
+1209,Mochila Executiva,Moda,1,159.9,Boleto,Nordeste,07161287,2024-12-21,159.9
+1021,Cafeteira Elétrica,Casa e Decoração,2,219.9,Cartão de Débito,Sul,04111303,2024-12-22,439.8
+1517,Livro - O Poder do Hábito,Livros,1,39.9,Cartão de Crédito,Nordeste,08970086,2024-12-22,39.9
+1524,Camiseta Básica,Moda,1,49.9,Boleto,Centro-Oeste,04991947,2024-12-22,49.9
+1176,Carregador Portátil,Eletrônicos,2,79.9,Cartão de Débito,Norte,04578780,2024-12-25,159.8
+1269,Livro - Hábitos Atômicos,Livros,1,44.9,Cartão de Débito,Norte,02655344,2024-12-26,44.9
+1142,Smartwatch Fit,Eletrônicos,1,349.9,Pix,Centro-Oeste,04279125,2024-12-26,349.9
+1473,Carregador Portátil,Eletrônicos,1,79.9,Cartão de Crédito,Nordeste,07780088,2024-12-27,79.9
+1551,Bicicleta Ergométrica,Esporte,3,899.9,Pix,Norte,03409818,2024-12-27,2699.7
+1424,Livro - Hábitos Atômicos,Livros,1,44.9,Pix,Norte,01666751,2024-12-28,44.9
+1295,Carregador Portátil,Eletrônicos,3,79.9,Cartão de Débito,Centro-Oeste,06713470,2024-12-29,239.7
+1334,Carregador Portátil,Eletrônicos,3,79.9,Pix,Centro-Oeste,01209535,2024-12-29,239.7
+1242,Mochila Executiva,Moda,3,159.9,Cartão de Débito,Centro-Oeste,07590084,2024-12-30,479.7
+1310,Camiseta Básica,Moda,1,49.9,Cartão de Crédito,Centro-Oeste,05190789,2024-12-30,49.9

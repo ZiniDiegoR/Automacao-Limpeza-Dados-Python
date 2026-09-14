@@ -1,0 +1,662 @@
+id_pedido,produto,categoria,quantidade,valor_unitario,forma_pagamento,regiao,cep_cliente,data_pedido
+1215,Tênis de Corrida,ESPORTE,1,"R$ 259,90",Cartão de Débito,Nordeste,2100307,31/08/2024
+1201,Livro - O Poder do Hábito, Livros,2,39.90,Cartão de Crédito,Norte,6666054,2024-03-12
+1455,Jogo de Panelas,Casa e decoração ,2,189.90,Cartão de Crédito,Norte,3330474,26/03/24
+1528,Bicicleta Ergométrica,esporte,2,899.90,Pix,Sudeste,4173115,16/11/24
+1565,Luminária de Mesa,Casa e Decoração,2,89.90,Cartão de Crédito,Sul,1284491,23-08-2024
+1268,Camiseta Básica, Moda,3,49.90,Pix,Sudeste,1359151,2024-03-31
+1600,Smartwatch Fit, Eletrônicos ,2,349.90,Boleto,Nordeste,,04-08-2024
+1447,Luminária de Mesa,casa e decoracao,2,89.90,Boleto,Nordeste,2111570,15/03/2024
+1607,Tênis de Corrida,esporte,2,259.90,Pix,Centro-Oeste,8837894,17-12-2024
+1299,Carregador Portátil,ELETRÔNICOS,3,79.90,Cartão de Crédito,Centro-Oeste,,12/06/24
+,,,,,,,,
+1008,Carregador Portátil,ELETRÔNICOS,1,79.90,Boleto,Norte,9085093,22/04/2024
+1409,Jogo de Panelas,CASA E DECORAÇÃO,1,,Pix,Sudeste,8460632,05/02/24
+1188,Smartwatch Fit,Eletronicos,3,"R$ 349,90",Cartão de Débito,Norte,1647894,2024-04-07
+1572,Mochila Executiva,MODA,1,"R$ 159,90",Cartão de Crédito,Nordeste,3025477,2024-09-20
+1164,Jogo de Panelas,Casa e decoração ,3,189.90,Cartão de Débito,Nordeste,8861357,16-04-2024
+1428,Tênis de Corrida,ESPORTE,2,"R$ 259,90",Cartão de Débito,Centro-Oeste,7505000,10-05-2024
+1092,Livro - Hábitos Atômicos,Livros,2,"R$ 44,90",Cartão de Crédito,Centro-Oeste,2501678,21/05/2024
+1479,Smartwatch Fit,Eletrônicos,2,349.90,Boleto,Norte,6739562,2024-10-13
+1030,Tênis de Corrida,Esporte,1,259.90,Cartão de Débito,Norte,3532947,2024-10-13
+1458,Camiseta Básica, Moda,2,49.90,Boleto,Sul,3930787,03/12/24
+1478,Livro - O Poder do Hábito,livros,1,"R$ 39,90",Pix,Norte,6228791,12/04/2024
+1055,Livro - Hábitos Atômicos,Livros,2,"R$ 44,90",Boleto,Nordeste,5232348,15-06-2024
+1111,Smartwatch Fit,ELETRÔNICOS,1,"R$ 349,90",Boleto,Sudeste,9363648,2024-06-22
+1464,Smartwatch Fit,Eletronicos,3,349.90,Cartão de Crédito,Centro-Oeste,5705437,18-11-2024
+1232,Fone de Ouvido Bluetooth,Eletrônicos,1,129.90,Cartão de Débito,Sudeste,3035951,16/11/24
+1158,Camiseta Básica, Moda,2,49.90,Boleto,Nordeste,6218166,22-09-2024
+1511,Fone de Ouvido Bluetooth, Eletrônicos ,1,129.90,Cartão de Débito,Sul,7432182,01/04/2024
+1521,Smartwatch Fit,Eletrônicos,3,349.90,Cartão de Crédito,Centro-Oeste,1750248,2024-03-13
+1089,Smartwatch Fit,ELETRÔNICOS,3,349.90,Cartão de Crédito,Sul,1742968,03/06/24
+1118,Livro - O Poder do Hábito,livros,1,39.90,Boleto,Nordeste,6082990,11/02/24
+1052,Livro - O Poder do Hábito,Livros,2,"R$ 39,90",Cartão de Débito,Nordeste,2129518,22/01/2024
+1317,Mochila Executiva,Moda,1,"R$ 159,90",Boleto,Sul,6384366,24-01-2024
+1422,Smartwatch Fit,Eletrônicos,1,349.90,Boleto,Sudeste,8952196,01/04/24
+1082,Cafeteira Elétrica,Casa e decoração ,2,219.90,Cartão de Débito,Nordeste,8484865,02/06/24
+1240,Camiseta Básica,MODA,2,"R$ 49,90",Boleto,Centro-Oeste,2195017,03/08/2024
+1622,Tênis de Corrida,Esporte,2,"R$ 259,90",Cartão de Crédito,Sul,9161693,19-10-2024
+1614,Livro - Hábitos Atômicos,LIVROS,3,44.90,Cartão de Débito,Norte,5198074,18/04/2024
+1370,Smartwatch Fit,Eletrônicos,1,349.90,Cartão de Débito,Sul,2577181,24/09/2024
+1123,Livro - Hábitos Atômicos,livros,2,"R$ 44,90",Cartão de Débito,Sul,9749244,08/11/24
+1088,Livro - Hábitos Atômicos, Livros,2,44.90,Pix,Sudeste,4830482,14-07-2024
+1353,Jogo de Panelas,casa e decoracao,1,189.90,Cartão de Crédito,Norte,8557660,02-04-2024
+1480,Carregador Portátil,eletronicos,1,"R$ 79,90",Pix,Norte,8268051,06/02/24
+1311,Smartwatch Fit,Eletrônicos,1,"R$ 349,90",Cartão de Débito,Centro-Oeste,3024560,2024-12-19
+1243,Bicicleta Ergométrica,esporte,1,"R$ 899,90",Cartão de Crédito,Nordeste,8167747,2024-10-01
+1134,Luminária de Mesa,CASA E DECORAÇÃO,3,89.90,Cartão de Crédito,Centro-Oeste,1605300,2024-04-03
+1025,Carregador Portátil,Eletrônicos,1,"R$ 79,90",Pix,Sul,6718902,2024-10-02
+1042,Smartwatch Fit,ELETRÔNICOS,1,349.90,Pix,Centro-Oeste,9270436,25/08/24
+1457,Livro - Hábitos Atômicos,livros,3,"R$ 44,90",Cartão de Débito,Nordeste,2397536,2024-03-04
+1413,Tênis de Corrida,Esporte,1,259.90,Cartão de Crédito,Norte,4415484,23-08-2024
+1037,Smartwatch Fit, Eletrônicos ,2,349.90,Pix,Centro-Oeste,5844567,07/06/24
+1465,Carregador Portátil, Eletrônicos ,1,79.90,Cartão de Débito,Centro-Oeste,3947904,10-11-2024
+1315,Tênis de Corrida,ESPORTE,1,"R$ 259,90",Cartão de Crédito,Sudeste,9095152,30/04/2024
+1132,Livro - O Poder do Hábito,Livros,2,,Cartão de Crédito,Centro-Oeste,8702044,03-07-2024
+1515,Livro - O Poder do Hábito,Livros,1,39.90,Pix,Sudeste,8530778,2024-09-30
+1309,Camiseta Básica, Moda,2,49.90,Boleto,Centro-Oeste,,2024-07-02
+1560,Cafeteira Elétrica,Casa e Decoração,2,219.90,Cartão de Débito,Nordeste,8799997,04/07/2024
+1137,Smartwatch Fit,ELETRÔNICOS,1,349.90,Boleto,Norte,5813328,08-08-2024
+1113,Cafeteira Elétrica,CASA E DECORAÇÃO,2,219.90,Pix,Nordeste,3473450,23/10/24
+1287,Livro - Hábitos Atômicos,livros,1,44.90,Pix,Sudeste,6535837,31-08-2024
+1375,Tênis de Corrida,ESPORTE,2,259.90,Pix,Norte,8925259,12-10-2024
+1589,Smartwatch Fit,Eletronicos,1,"R$ 349,90",Pix,Norte,7586823,27/05/2024
+1563,Livro - Hábitos Atômicos, Livros,3,"R$ 44,90",Pix,Sudeste,9755593,2024-06-03
+1016,Livro - O Poder do Hábito,Livros,1,39.90,Pix,Sudeste,9423243,04/02/24
+1503,Mochila Executiva,MODA,1,159.90,Boleto,Sul,6653055,04/12/2024
+1516,Livro - O Poder do Hábito,Livros,1,39.90,,Sudeste,8530778,2024-09-30
+1345,Tênis de Corrida,ESPORTE,1,259.90,Cartão de Débito,Sudeste,3519024,15-04-2024
+1296,Carregador Portátil,ELETRÔNICOS,2,"R$ 79,90",Pix,Norte,5631305,22/02/24
+1625,Smartwatch Fit,Eletronicos,2,"R$ 349,90",Pix,Sul,4933988,14/07/24
+1091,Jogo de Panelas,Casa e Decoração,3,"R$ 189,90",Cartão de Débito,Sul,6942101,08-07-2024
+1282,Bicicleta Ergométrica,ESPORTE,2,899.90,Cartão de Crédito,Centro-Oeste,1568514,2024-04-30
+1087,Smartwatch Fit,eletronicos,1,349.90,Cartão de Débito,Norte,6992092,12/12/2024
+1445,Tênis de Corrida,esporte,1,259.90,Cartão de Crédito,Centro-Oeste,9531983,2024-07-20
+1326,Livro - O Poder do Hábito, Livros,2,"R$ 39,90",Cartão de Débito,Nordeste,6953845,2024-10-14
+1476,Camiseta Básica,moda,1,49.90,,Nordeste,3347787,2024-09-04
+1024,Luminária de Mesa,Casa e decoração ,1,"R$ 89,90",Pix,Centro-Oeste,6180951,15/05/2024
+1041,Mochila Executiva,moda,1,159.90,Cartão de Crédito,Centro-Oeste,4585180,01/12/24
+1318,Livro - Hábitos Atômicos,livros,1,44.90,Cartão de Débito,Nordeste,7319706,24/07/24
+1619,Camiseta Básica, Moda,3,49.90,,Norte,8208054,08/09/2024
+1517,Livro - O Poder do Hábito,livros,1,"R$ 39,90",Cartão de Crédito,Nordeste,8970086,22/12/24
+1351,Luminária de Mesa,CASA E DECORAÇÃO,2,89.90,Boleto,Nordeste,,2024-05-31
+1135,Jogo de Panelas,CASA E DECORAÇÃO,2,"R$ 189,90",Boleto,Nordeste,6848882,30-08-2024
+1006,Bicicleta Ergométrica,esporte,3,899.90,Cartão de Crédito,Sul,1525824,15-06-2024
+1086,Bicicleta Ergométrica, Esporte ,2,899.90,Boleto,Nordeste,8894990,13-09-2024
+1139,Fone de Ouvido Bluetooth,Eletrônicos,3,129.90,Boleto,Sudeste,3339869,22/11/24
+1330,Livro - O Poder do Hábito,livros,2,39.90,Cartão de Crédito,Norte,8091858,2024-01-03
+1617,Fone de Ouvido Bluetooth,eletronicos,2,129.90,Cartão de Débito,Nordeste,5312627,23-05-2024
+1383,Carregador Portátil, Eletrônicos ,3,79.90,Cartão de Débito,Sul,6565984,14/08/24
+1251,Tênis de Corrida,esporte,1,259.90,Cartão de Crédito,Sul,9872354,04/01/2024
+1000,Livro - O Poder do Hábito,Livros,1,"R$ 39,90",Boleto,Sudeste,9935089,20/05/2024
+1176,Carregador Portátil, Eletrônicos ,2,79.90,Cartão de Débito,Norte,4578780,25/12/2024
+1489,Livro - O Poder do Hábito, Livros,2,39.90,Cartão de Crédito,Norte,9362413,25-06-2024
+1108,Jogo de Panelas,Casa e decoração ,1,189.90,Cartão de Débito,Sul,3116389,2024-01-04
+1051,Jogo de Panelas,Casa e Decoração,2,189.90,Cartão de Débito,Centro-Oeste,4249077,2024-01-14
+1412,Smartwatch Fit,Eletronicos,2,"R$ 349,90",Pix,Centro-Oeste,1206124,2024-04-02
+1110,Smartwatch Fit,ELETRÔNICOS,1,"R$ 349,90",Cartão de Débito,Nordeste,2443447,2024-06-15
+1278,Carregador Portátil,Eletronicos,2,,Cartão de Crédito,Centro-Oeste,2435301,19/03/24
+1066,Jogo de Panelas,CASA E DECORAÇÃO,1,189.90,Cartão de Débito,Nordeste,9199552,27/08/2024
+1328,Jogo de Panelas,Casa e decoração ,3,"R$ 189,90",Boleto,Centro-Oeste,3301841,24/02/24
+1407,Luminária de Mesa,CASA E DECORAÇÃO,2,"R$ 89,90",Cartão de Débito,Sul,9464782,22-04-2024
+1601,Fone de Ouvido Bluetooth,Eletrônicos,3,"R$ 129,90",Cartão de Débito,Nordeste,6945924,09/12/2024
+1024,Luminária de Mesa,Casa e decoração ,1,"R$ 89,90",Pix,Centro-Oeste,6180951,15/05/2024
+1634,Carregador Portátil, Eletrônicos ,3,79.90,Cartão de Débito,Nordeste,2435128,2024-12-10
+1120,Smartwatch Fit, Eletrônicos ,2,349.90,,Sul,9624095,11/07/24
+1009,Livro - O Poder do Hábito,LIVROS,2,"R$ 39,90",Cartão de Débito,Norte,5119994,02/02/2024
+1054,Cafeteira Elétrica,CASA E DECORAÇÃO,2,"R$ 219,90",Boleto,Sudeste,5569902,30/10/24
+1177,Livro - Hábitos Atômicos,Livros,2,"R$ 44,90",Boleto,Norte,9792153,27/02/24
+1270,Mochila Executiva,MODA,3,"R$ 159,90",Pix,Sul,3872387,11-06-2024
+1245,Bicicleta Ergométrica, Esporte ,1,"R$ 899,90",Pix,Sudeste,1480343,09-07-2024
+1584,Camiseta Básica, Moda,1,"R$ 49,90",Pix,Centro-Oeste,2594438,25-10-2024
+1097,Carregador Portátil,Eletrônicos,3,79.90,Cartão de Débito,Sudeste,1996490,03/12/24
+1384,Cafeteira Elétrica,Casa e Decoração,1,"R$ 219,90",Boleto,Sul,6172422,04/02/2024
+1352,Mochila Executiva,Moda,1,159.90,Pix,Sul,7760927,2024-04-17
+1579,Bicicleta Ergométrica,ESPORTE,2,"R$ 899,90",Cartão de Débito,Centro-Oeste,9270267,13/04/2024
+1210,Tênis de Corrida,esporte,3,"R$ 259,90",Cartão de Débito,Sul,8183816,08/10/2024
+1011,Bicicleta Ergométrica,Esporte,3,899.90,Boleto,Sul,7126780,01/06/2024
+1562,Livro - Hábitos Atômicos,Livros,1,44.90,Cartão de Crédito,Norte,4175784,29/05/2024
+1347,Camiseta Básica, Moda,2,49.90,Boleto,Nordeste,,06/02/24
+1590,Carregador Portátil, Eletrônicos ,1,79.90,Cartão de Débito,Centro-Oeste,4436355,04-02-2024
+1259,Tênis de Corrida,esporte,1,"R$ 259,90",Cartão de Crédito,Norte,5240939,24/07/2024
+1524,Camiseta Básica,MODA,1,"R$ 49,90",Boleto,Centro-Oeste,4991947,2024-12-22
+1276,Fone de Ouvido Bluetooth,Eletrônicos,1,129.90,Cartão de Débito,Norte,9849271,15-04-2024
+1493,Camiseta Básica,Moda,1,49.90,Cartão de Débito,Norte,7974638,24/11/24
+1581,Smartwatch Fit,ELETRÔNICOS,2,349.90,Cartão de Débito,Centro-Oeste,1589033,10-06-2024
+1127,Tênis de Corrida,ESPORTE,1,,Cartão de Débito,Norte,7126241,14/01/2024
+1189,Livro - Hábitos Atômicos, Livros,1,44.90,Cartão de Crédito,Centro-Oeste,4974712,2024-04-18
+1002,Mochila Executiva, Moda,1,"R$ 159,90",Pix,Sudeste,2519389,20-03-2024
+1381,Luminária de Mesa,Casa e Decoração,1,"R$ 89,90",Pix,Nordeste,5530231,2024-10-08
+1293,Livro - O Poder do Hábito,livros,1,39.90,Cartão de Crédito,Sudeste,8767933,2024-11-29
+1436,Carregador Portátil,Eletrônicos,1,79.90,Pix,Nordeste,4120328,09/12/2024
+1114,Carregador Portátil,Eletrônicos,1,"R$ 79,90",Cartão de Débito,Centro-Oeste,1616058,16-09-2024
+1144,Livro - O Poder do Hábito,livros,1,"R$ 39,90",Boleto,Sul,4878809,17-09-2024
+1342,Carregador Portátil,Eletronicos,2,79.90,Cartão de Crédito,Sudeste,6668456,2024-10-14
+1065,Jogo de Panelas,casa e decoracao,2,189.90,Boleto,Nordeste,3330073,28-02-2024
+1586,Tênis de Corrida,esporte,1,"R$ 259,90",Cartão de Crédito,Sudeste,,27/11/2024
+1550,Camiseta Básica, Moda,1,49.90,Cartão de Débito,Sul,8504950,13/01/2024
+1125,Livro - Hábitos Atômicos,Livros,3,44.90,Pix,Sudeste,3626279,2024-09-21
+1126,Tênis de Corrida,ESPORTE,1,259.90,Cartão de Débito,Norte,7126241,14/01/2024
+1341,Bicicleta Ergométrica,Esporte,2,899.90,Cartão de Débito,Sudeste,6724226,22-03-2024
+1279,Livro - O Poder do Hábito, Livros,1,39.90,Pix,Centro-Oeste,8715500,30-08-2024
+1286,Livro - O Poder do Hábito,LIVROS,2,39.90,Boleto,Nordeste,7602147,07/11/24
+1536,Mochila Executiva,Moda,1,159.90,Cartão de Crédito,Centro-Oeste,9701403,28/08/2024
+1357,Livro - O Poder do Hábito,Livros,1,39.90,Boleto,Nordeste,2252744,12/03/2024
+1462,Smartwatch Fit,ELETRÔNICOS,1,349.90,Boleto,Centro-Oeste,6901953,23-03-2024
+1093,Camiseta Básica,moda,1,"R$ 49,90",Boleto,Sul,6383792,10/10/2024
+1300,Carregador Portátil,eletronicos,1,79.90,Cartão de Débito,Nordeste,9311307,2024-04-23
+1181,Livro - O Poder do Hábito,livros,3,"R$ 39,90",Cartão de Débito,Norte,3086745,27/06/2024
+1424,Livro - Hábitos Atômicos,LIVROS,1,"R$ 44,90",Pix,Norte,1666751,28-12-2024
+1161,Fone de Ouvido Bluetooth,Eletronicos,3,"R$ 129,90",Cartão de Débito,Nordeste,7861155,2024-02-26
+1521,Smartwatch Fit,Eletrônicos,3,349.90,Cartão de Crédito,Centro-Oeste,1750248,2024-03-13
+1238,Camiseta Básica,moda,1,"R$ 49,90",Pix,Sudeste,5942210,2024-11-26
+1235,Tênis de Corrida,ESPORTE,1,259.90,Cartão de Crédito,Centro-Oeste,3165489,05/01/24
+1073,Luminária de Mesa,Casa e decoração ,2,89.90,Boleto,Centro-Oeste,3369392,2024-09-04
+1272,Tênis de Corrida, Esporte ,1,259.90,Cartão de Crédito,Nordeste,8317011,2024-03-26
+1569,Tênis de Corrida,esporte,1,"R$ 259,90",Cartão de Crédito,Sul,5544971,09-12-2024
+1490,Fone de Ouvido Bluetooth,Eletrônicos,3,129.90,Pix,Sudeste,5623886,13/10/24
+1500,Fone de Ouvido Bluetooth,ELETRÔNICOS,2,129.90,Pix,Norte,1447293,2024-03-27
+1518,Tênis de Corrida,Esporte,3,"R$ 259,90",Cartão de Débito,Sudeste,9856658,30/10/24
+1477,Luminária de Mesa,Casa e Decoração,1,89.90,Cartão de Crédito,Nordeste,8649910,08-06-2024
+1194,Livro - O Poder do Hábito,Livros,2,39.90,Cartão de Crédito,Sudeste,1104422,2024-01-18
+1236,Smartwatch Fit, Eletrônicos ,1,"R$ 349,90",Boleto,Sul,2120543,2024-06-02
+1452,Tênis de Corrida,esporte,1,"R$ 259,90",Cartão de Débito,Norte,9027704,03/02/24
+1321,Livro - Hábitos Atômicos,Livros,3,44.90,Cartão de Débito,Sudeste,,07-03-2024
+1254,Tênis de Corrida,ESPORTE,3,259.90,Cartão de Crédito,Norte,2565517,09/07/24
+1402,Mochila Executiva, Moda,1,159.90,Cartão de Débito,Sul,3150539,06/05/2024
+1350,Luminária de Mesa,CASA E DECORAÇÃO,2,89.90,Boleto,Nordeste,7113980,2024-05-31
+1033,Tênis de Corrida,esporte,2,"R$ 259,90",Boleto,Sul,1387675,28-06-2024
+1271,Luminária de Mesa,CASA E DECORAÇÃO,2,"R$ 89,90",Pix,Norte,4619654,17/01/24
+1408,Jogo de Panelas,CASA E DECORAÇÃO,1,"R$ 189,90",Pix,Sudeste,8460632,05/02/24
+1574,Mochila Executiva,moda,1,159.90,Pix,Sul,1209690,31/08/2024
+1023,Tênis de Corrida,ESPORTE,1,"R$ 259,90",Cartão de Crédito,Norte,2343429,18-10-2024
+1454,Fone de Ouvido Bluetooth,eletronicos,2,"R$ 129,90",Cartão de Crédito,Norte,7347528,02/10/2024
+1021,Cafeteira Elétrica,Casa e decoração ,2,219.90,Cartão de Débito,Sul,4111303,22/12/2024
+1430,Camiseta Básica,moda,1,49.90,Boleto,Sul,5198830,06/07/24
+1094,Camiseta Básica, Moda,1,49.90,Cartão de Crédito,Sul,1243366,2024-02-26
+1387,Smartwatch Fit,Eletrônicos,1,349.90,Cartão de Débito,Norte,1108782,12/12/2024
+1313,Jogo de Panelas,Casa e Decoração,1,"R$ 189,90",Boleto,Nordeste,9571996,11/09/24
+1227,Bicicleta Ergométrica, Esporte ,2,"R$ 899,90",Pix,Nordeste,5380975,02/10/2024
+1537,Bicicleta Ergométrica,Esporte,3,899.90,Boleto,Nordeste,5846244,27/07/2024
+1192,Luminária de Mesa,CASA E DECORAÇÃO,1,"R$ 89,90",Boleto,Centro-Oeste,5026511,19-03-2024
+1107,Livro - O Poder do Hábito,LIVROS,2,"R$ 39,90",Boleto,Centro-Oeste,1897007,2024-12-07
+1504,Cafeteira Elétrica,Casa e decoração ,2,"R$ 219,90",Cartão de Débito,Centro-Oeste,5302148,29/09/24
+1599,Smartwatch Fit, Eletrônicos ,2,349.90,Boleto,Nordeste,3374371,04-08-2024
+1537,Bicicleta Ergométrica,Esporte,3,899.90,Boleto,Nordeste,5846244,27/07/2024
+1229,Cafeteira Elétrica,casa e decoracao,2,"R$ 219,90",Cartão de Débito,Centro-Oeste,8405077,19/11/2024
+1441,Tênis de Corrida, Esporte ,1,259.90,Cartão de Crédito,Sudeste,,26-08-2024
+1099,Jogo de Panelas,CASA E DECORAÇÃO,2,189.90,Cartão de Crédito,Norte,4522440,2024-11-05
+1079,Jogo de Panelas,casa e decoracao,3,189.90,Cartão de Crédito,Sudeste,8269170,16/02/2024
+1275,Mochila Executiva,moda,3,159.90,Cartão de Crédito,Nordeste,8909721,2024-02-08
+1404,Carregador Portátil,ELETRÔNICOS,2,79.90,Pix,Nordeste,8891552,23/11/2024
+1606,Livro - O Poder do Hábito,livros,3,39.90,Boleto,Sudeste,7564204,15-08-2024
+1248,Fone de Ouvido Bluetooth,Eletronicos,3,129.90,Pix,Sul,7819937,01-12-2024
+1596,Smartwatch Fit, Eletrônicos ,2,349.90,Cartão de Débito,Nordeste,2479406,2024-06-01
+1174,Jogo de Panelas,Casa e decoração ,1,189.90,Cartão de Crédito,Nordeste,6890709,25/10/2024
+1298,Carregador Portátil,ELETRÔNICOS,3,79.90,Cartão de Crédito,Centro-Oeste,5843265,12/06/24
+1627,Livro - Hábitos Atômicos,Livros,1,"R$ 44,90",Cartão de Débito,Centro-Oeste,8805274,19/09/24
+1304,Camiseta Básica,Moda,2,49.90,Boleto,Nordeste,1950004,2024-06-19
+1456,Camiseta Básica,moda,2,"R$ 49,90",Cartão de Crédito,Sul,8433604,2024-07-30
+1043,Cafeteira Elétrica,CASA E DECORAÇÃO,1,219.90,Pix,Norte,8939641,06/05/24
+1131,Livro - O Poder do Hábito,Livros,2,"R$ 39,90",Cartão de Crédito,Centro-Oeste,8702044,03-07-2024
+1163,Bicicleta Ergométrica, Esporte ,3,899.90,Pix,Norte,8932196,14-12-2024
+1374,Livro - Hábitos Atômicos,LIVROS,1,"R$ 44,90",Pix,Nordeste,9783433,24-02-2024
+1434,Mochila Executiva,moda,1,"R$ 159,90",Cartão de Crédito,Norte,7540268,21/06/24
+1124,Livro - O Poder do Hábito,LIVROS,2,39.90,Cartão de Débito,Sul,4271820,24-05-2024
+1117,Mochila Executiva,MODA,1,159.90,Pix,Sudeste,6401096,13/12/24
+1186,Mochila Executiva,MODA,1,"R$ 159,90",Cartão de Débito,Sul,4692307,2024-06-02
+1559,Livro - O Poder do Hábito,LIVROS,1,39.90,Pix,Centro-Oeste,3938503,2024-11-30
+1128,Luminária de Mesa,Casa e decoração ,1,"R$ 89,90",Cartão de Débito,Sul,8685459,11/03/2024
+1502,Camiseta Básica, Moda,3,49.90,Cartão de Crédito,Nordeste,2382990,2024-04-30
+1012,Smartwatch Fit, Eletrônicos ,1,"R$ 349,90",Cartão de Crédito,Sudeste,8962835,2024-05-02
+1421,Bicicleta Ergométrica,ESPORTE,1,899.90,Boleto,Norte,5638330,25-09-2024
+1142,Smartwatch Fit, Eletrônicos ,1,349.90,Pix,Centro-Oeste,4279125,26/12/2024
+1230,Luminária de Mesa,Casa e decoração ,2,"R$ 89,90",Cartão de Crédito,Sudeste,8511650,06-09-2024
+1583,Bicicleta Ergométrica,Esporte,2,899.90,Cartão de Débito,Norte,6779784,14-05-2024
+1046,Jogo de Panelas,CASA E DECORAÇÃO,2,189.90,Boleto,Centro-Oeste,4595279,02/10/2024
+1620,Camiseta Básica,MODA,2,49.90,Cartão de Débito,Sudeste,8233365,29/02/24
+1212,Mochila Executiva,MODA,2,159.90,Pix,Norte,2392111,19-01-2024
+1159,Bicicleta Ergométrica,ESPORTE,3,"R$ 899,90",Cartão de Crédito,Nordeste,6427689,15/10/24
+1327,Carregador Portátil,Eletronicos,2,"R$ 79,90",Cartão de Débito,Sudeste,2596777,02/12/2024
+1334,Carregador Portátil,Eletronicos,3,79.90,Pix,Centro-Oeste,1209535,29/12/24
+1432,Livro - Hábitos Atômicos, Livros,2,44.90,Cartão de Crédito,Sul,1187649,01/08/24
+1076,Luminária de Mesa,CASA E DECORAÇÃO,2,89.90,Boleto,Centro-Oeste,1606129,05-12-2024
+1322,Bicicleta Ergométrica,esporte,3,899.90,Cartão de Crédito,Centro-Oeste,5072493,22/06/24
+1191,Luminária de Mesa,CASA E DECORAÇÃO,1,"R$ 89,90",Cartão de Débito,Sudeste,4625759,14-04-2024
+1196,Jogo de Panelas,Casa e decoração ,1,189.90,Cartão de Débito,Sul,2753940,2024-09-14
+1467,Cafeteira Elétrica,Casa e Decoração,3,219.90,Cartão de Débito,Centro-Oeste,1745341,2024-04-16
+1141,Carregador Portátil,eletronicos,2,"R$ 79,90",Pix,Sul,2858026,06/07/24
+1510,Smartwatch Fit,ELETRÔNICOS,1,349.90,Pix,Nordeste,3653799,06/08/2024
+1491,Livro - Hábitos Atômicos,LIVROS,2,44.90,Boleto,Sul,8780142,14/07/24
+1530,Bicicleta Ergométrica,esporte,1,899.90,Cartão de Crédito,Sudeste,4855738,15-01-2024
+1244,Mochila Executiva,Moda,2,159.90,Pix,Sul,2956012,09/11/2024
+1553,Carregador Portátil,eletronicos,2,"R$ 79,90",Pix,Sul,1369085,26/09/24
+1621,Luminária de Mesa,casa e decoracao,1,"R$ 89,90",Pix,Sul,3757767,27-06-2024
+1344,Livro - O Poder do Hábito,livros,1,"R$ 39,90",Cartão de Crédito,Sul,9814546,20/09/2024
+1182,Cafeteira Elétrica,CASA E DECORAÇÃO,2,219.90,Boleto,Centro-Oeste,6671158,13/07/2024
+1533,Camiseta Básica,Moda,3,"R$ 49,90",Boleto,Sudeste,8627469,18-10-2024
+1218,Smartwatch Fit,Eletronicos,1,"R$ 349,90",Pix,Sul,8496116,01/10/24
+1405,Jogo de Panelas,casa e decoracao,1,"R$ 189,90",Boleto,Nordeste,5698480,06/01/24
+1466,Carregador Portátil, Eletrônicos ,1,,Cartão de Débito,Centro-Oeste,3947904,10-11-2024
+1133,Livro - Hábitos Atômicos,livros,3,44.90,Pix,Sul,1726360,2024-12-02
+1083,Mochila Executiva, Moda,2,159.90,Pix,Sudeste,7484281,31/05/2024
+1410,Bicicleta Ergométrica,Esporte,1,"R$ 899,90",Boleto,Centro-Oeste,1134238,22/02/2024
+1247,Smartwatch Fit,eletronicos,3,"R$ 349,90",Cartão de Crédito,Sul,1753483,2024-09-17
+1056,Tênis de Corrida,Esporte,1,259.90,Boleto,Centro-Oeste,9041458,27/07/2024
+1096,Fone de Ouvido Bluetooth,eletronicos,3,129.90,Cartão de Crédito,Centro-Oeste,8344796,03/08/2024
+1531,Livro - Hábitos Atômicos,livros,1,"R$ 44,90",Boleto,Centro-Oeste,4276384,15/06/2024
+1393,Smartwatch Fit, Eletrônicos ,1,349.90,Cartão de Débito,Sul,3389819,2024-10-11
+,,,,,,,,
+1628,Livro - Hábitos Atômicos,livros,2,44.90,Cartão de Crédito,Norte,6599996,2024-11-18
+1568,Livro - O Poder do Hábito,Livros,2,39.90,Cartão de Crédito,Sudeste,5942683,01/03/2024
+1281,Luminária de Mesa,Casa e Decoração,1,"R$ 89,90",Cartão de Débito,Norte,4727566,08/12/24
+1306,Livro - Hábitos Atômicos,Livros,1,"R$ 44,90",Cartão de Crédito,Sul,4707710,28-09-2024
+1180,Smartwatch Fit,ELETRÔNICOS,1,349.90,Boleto,Centro-Oeste,7135912,26/05/24
+1213,Carregador Portátil,ELETRÔNICOS,1,"R$ 79,90",Cartão de Crédito,Nordeste,4637522,2024-08-08
+1035,Fone de Ouvido Bluetooth,Eletrônicos,2,"R$ 129,90",Pix,Centro-Oeste,9379118,2024-08-10
+1364,Smartwatch Fit,Eletronicos,1,349.90,Boleto,Norte,7649361,11-07-2024
+1221,Mochila Executiva,MODA,1,159.90,Boleto,Norte,3733501,2024-09-06
+1226,Tênis de Corrida,esporte,3,259.90,Cartão de Débito,Sul,3281803,2024-10-28
+1629,Cafeteira Elétrica,Casa e Decoração,1,219.90,Cartão de Débito,Nordeste,3434130,27-08-2024
+1064,Fone de Ouvido Bluetooth,ELETRÔNICOS,2,129.90,Pix,Sudeste,4792295,18/12/24
+1366,Luminária de Mesa,Casa e Decoração,3,89.90,Pix,Sudeste,8889691,2024-04-27
+1612,Jogo de Panelas,Casa e decoração ,3,"R$ 189,90",Cartão de Débito,Sul,4531843,2024-09-10
+1167,Bicicleta Ergométrica,esporte,3,"R$ 899,90",Cartão de Débito,Nordeste,8739102,2024-04-29
+1222,Fone de Ouvido Bluetooth, Eletrônicos ,1,"R$ 129,90",Cartão de Débito,Norte,9281668,05/09/24
+1153,Mochila Executiva,MODA,1,159.90,Pix,Sul,3610510,22/03/24
+1237,Livro - O Poder do Hábito,livros,2,39.90,Boleto,Sudeste,2646143,11/11/24
+1420,Livro - Hábitos Atômicos,LIVROS,1,44.90,Boleto,Sudeste,6965794,22-11-2024
+1020,Fone de Ouvido Bluetooth,Eletrônicos,1,129.90,Cartão de Débito,Sul,7570924,26/03/24
+1031,Mochila Executiva,Moda,1,159.90,Cartão de Débito,Sul,5371163,19/06/2024
+1554,Bicicleta Ergométrica,ESPORTE,1,"R$ 899,90",Cartão de Crédito,Nordeste,7513151,08/09/24
+1611,Camiseta Básica,Moda,1,49.90,Cartão de Débito,Centro-Oeste,2941229,2024-09-26
+1000,Livro - O Poder do Hábito,Livros,1,"R$ 39,90",Boleto,Sudeste,9935089,20/05/2024
+1308,Camiseta Básica, Moda,2,49.90,Boleto,Centro-Oeste,1313233,2024-07-02
+1090,Bicicleta Ergométrica,esporte,2,"R$ 899,90",Cartão de Débito,Norte,3531906,20/08/2024
+1106,Smartwatch Fit, Eletrônicos ,2,349.90,Cartão de Débito,Centro-Oeste,5475220,04/12/2024
+1578,Smartwatch Fit,Eletrônicos,1,349.90,Boleto,Centro-Oeste,6356156,12/09/2024
+1580,Bicicleta Ergométrica,ESPORTE,2,"R$ 899,90",,Centro-Oeste,9270267,13/04/2024
+1367,Mochila Executiva,Moda,1,"R$ 159,90",Boleto,Sul,9399040,2024-01-23
+1597,Bicicleta Ergométrica,Esporte,2,899.90,Pix,Centro-Oeste,2478243,06-12-2024
+1069,Livro - Hábitos Atômicos,Livros,1,44.90,Cartão de Débito,Nordeste,7561833,17/06/2024
+1305,Camiseta Básica,MODA,1,49.90,Cartão de Débito,Centro-Oeste,8029988,07/03/2024
+1508,Smartwatch Fit,ELETRÔNICOS,1,349.90,Pix,Sul,1557024,22/04/2024
+1302,Livro - Hábitos Atômicos, Livros,2,44.90,Cartão de Crédito,Centro-Oeste,1879887,30/05/2024
+1145,Bicicleta Ergométrica,esporte,2,"R$ 899,90",Cartão de Débito,Centro-Oeste,9612420,14/02/2024
+1380,Livro - Hábitos Atômicos,livros,3,44.90,Cartão de Crédito,Nordeste,7544361,01/01/24
+1185,Mochila Executiva, Moda,1,159.90,Boleto,Centro-Oeste,9120048,01/02/24
+,,,,,,,,
+1373,Carregador Portátil,Eletronicos,2,"R$ 79,90",Cartão de Crédito,Norte,9561120,11/05/24
+1337,Livro - O Poder do Hábito, Livros,2,"R$ 39,90",Pix,Sul,8259849,28-01-2024
+1075,Bicicleta Ergométrica,ESPORTE,2,899.90,Boleto,Norte,7274239,13/06/24
+1557,Mochila Executiva,Moda,1,159.90,Pix,Centro-Oeste,3865569,2024-07-28
+1635,Carregador Portátil, Eletrônicos ,3,,Cartão de Débito,Nordeste,2435128,2024-12-10
+1143,Cafeteira Elétrica,Casa e Decoração,3,219.90,Cartão de Crédito,Norte,9882297,2024-06-12
+1283,Camiseta Básica,moda,1,"R$ 49,90",Cartão de Débito,Sudeste,8133206,2024-04-08
+1355,Carregador Portátil, Eletrônicos ,3,"R$ 79,90",Pix,Nordeste,8017172,2024-10-26
+1058,Luminária de Mesa,casa e decoracao,1,89.90,Boleto,Sul,4545756,02-03-2024
+1497,Carregador Portátil,Eletrônicos,1,79.90,Cartão de Crédito,Norte,6119627,29-08-2024
+1544,Livro - O Poder do Hábito,Livros,1,"R$ 39,90",Cartão de Débito,Sul,5724981,22/08/2024
+1297,Livro - O Poder do Hábito, Livros,1,39.90,Pix,Sul,3456529,13/05/2024
+1425,Bicicleta Ergométrica,Esporte,1,899.90,Boleto,Sul,9621672,2024-04-28
+1411,Jogo de Panelas,CASA E DECORAÇÃO,1,189.90,Cartão de Crédito,Nordeste,2314863,2024-08-25
+1077,Cafeteira Elétrica,Casa e Decoração,2,"R$ 219,90",Boleto,Centro-Oeste,3529076,21-08-2024
+1015,Livro - O Poder do Hábito, Livros,2,39.90,Boleto,Sul,,2024-09-21
+1233,Mochila Executiva,moda,3,159.90,Pix,Sul,5489095,08-03-2024
+1224,Luminária de Mesa,CASA E DECORAÇÃO,2,"R$ 89,90",Cartão de Crédito,Nordeste,9898843,18/09/2024
+1532,Mochila Executiva,moda,1,159.90,Cartão de Débito,Nordeste,3234468,08-11-2024
+1057,Tênis de Corrida, Esporte ,3,"R$ 259,90",Pix,Centro-Oeste,6419360,24-10-2024
+1549,Livro - Hábitos Atômicos,livros,2,"R$ 44,90",Boleto,Norte,1568681,13-05-2024
+1253,Mochila Executiva, Moda,1,159.90,Boleto,Centro-Oeste,9061984,2024-04-15
+1325,Livro - Hábitos Atômicos,Livros,2,"R$ 44,90",Cartão de Débito,Centro-Oeste,1587570,30/11/2024
+,,,,,,,,
+1632,Livro - O Poder do Hábito,LIVROS,2,"R$ 39,90",Boleto,Sul,4032080,15-05-2024
+1603,Camiseta Básica,MODA,3,49.90,Cartão de Débito,Sudeste,5489887,11/06/24
+1377,Livro - O Poder do Hábito,Livros,1,39.90,Cartão de Crédito,Sudeste,3381482,18/07/24
+1070,Livro - Hábitos Atômicos,Livros,2,44.90,Cartão de Crédito,Norte,8569423,20-09-2024
+1080,Jogo de Panelas,Casa e decoração ,1,"R$ 189,90",Cartão de Débito,Norte,3950174,08/08/24
+1206,Tênis de Corrida,esporte,3,"R$ 259,90",Pix,Nordeste,5397504,2024-07-13
+1241,Camiseta Básica,MODA,2,,Boleto,Centro-Oeste,2195017,03/08/2024
+1216,Smartwatch Fit,eletronicos,3,349.90,Boleto,Nordeste,7985981,04/05/24
+1389,Bicicleta Ergométrica,Esporte,2,"R$ 899,90",Boleto,Centro-Oeste,2972715,26-06-2024
+1246,Carregador Portátil,Eletrônicos,2,79.90,Cartão de Crédito,Centro-Oeste,3734376,21/08/2024
+1522,Jogo de Panelas,Casa e Decoração,2,"R$ 189,90",Cartão de Crédito,Sudeste,2870509,2024-11-08
+1130,Cafeteira Elétrica,Casa e Decoração,3,219.90,Boleto,Nordeste,8032001,2024-09-20
+1195,Tênis de Corrida,ESPORTE,1,259.90,Cartão de Débito,Centro-Oeste,1257006,31/01/24
+1256,Carregador Portátil,Eletrônicos,1,"R$ 79,90",Cartão de Débito,Nordeste,7660123,2024-02-24
+1277,Carregador Portátil,Eletronicos,2,"R$ 79,90",Cartão de Crédito,Centro-Oeste,2435301,19/03/24
+1630,Jogo de Panelas,Casa e Decoração,2,189.90,Cartão de Crédito,Norte,7961422,09-02-2024
+1571,Fone de Ouvido Bluetooth,Eletrônicos,1,129.90,Cartão de Débito,Nordeste,4033450,15/09/2024
+1260,Livro - O Poder do Hábito,LIVROS,1,39.90,Pix,Sudeste,1699964,2024-02-17
+1183,Carregador Portátil,Eletrônicos,1,"R$ 79,90",Cartão de Crédito,Centro-Oeste,1797250,15/04/24
+1036,Fone de Ouvido Bluetooth,Eletronicos,2,129.90,Boleto,Nordeste,8066071,17-12-2024
+1426,Luminária de Mesa,Casa e Decoração,3,"R$ 89,90",Cartão de Débito,Centro-Oeste,2705170,22/10/24
+1396,Fone de Ouvido Bluetooth,eletronicos,1,129.90,Cartão de Crédito,Centro-Oeste,6483266,31-08-2024
+1234,Livro - O Poder do Hábito,livros,1,39.90,Boleto,Centro-Oeste,2494720,2024-07-21
+1063,Jogo de Panelas,Casa e Decoração,2,189.90,Boleto,Sul,5335676,2024-02-20
+1541,Livro - Hábitos Atômicos,LIVROS,2,"R$ 44,90",Boleto,Norte,2097574,2024-01-21
+1463,Smartwatch Fit,ELETRÔNICOS,2,"R$ 349,90",Boleto,Sudeste,5496337,2024-02-03
+1395,Cafeteira Elétrica,casa e decoracao,3,219.90,Pix,Centro-Oeste,5915256,21/09/2024
+1038,Luminária de Mesa,casa e decoracao,2,"R$ 89,90",Cartão de Crédito,Nordeste,5700215,18-10-2024
+1525,Carregador Portátil,ELETRÔNICOS,1,79.90,Cartão de Crédito,Sudeste,1118183,09-01-2024
+1209,Mochila Executiva, Moda,1,159.90,Boleto,Nordeste,7161287,21/12/24
+1429,Jogo de Panelas,Casa e Decoração,1,"R$ 189,90",Pix,Sudeste,5521941,2024-04-23
+1047,Mochila Executiva,moda,2,159.90,Cartão de Crédito,Centro-Oeste,1444085,2024-03-06
+1613,Camiseta Básica,Moda,1,"R$ 49,90",Cartão de Débito,Sul,7056596,14/05/24
+1178,Carregador Portátil,ELETRÔNICOS,1,79.90,Cartão de Crédito,Centro-Oeste,3161525,18/09/2024
+1095,Camiseta Básica, Moda,1,49.90,,Sul,1243366,2024-02-26
+1289,Mochila Executiva,MODA,2,159.90,Boleto,Sudeste,6097726,2024-07-10
+1471,Bicicleta Ergométrica, Esporte ,2,899.90,Cartão de Crédito,Norte,,30-07-2024
+1162,Cafeteira Elétrica,Casa e Decoração,3,219.90,Pix,Centro-Oeste,9609385,2024-03-11
+1050,Cafeteira Elétrica,Casa e Decoração,2,219.90,Pix,Nordeste,3749620,21/04/2024
+1122,Luminária de Mesa,Casa e Decoração,3,89.90,Boleto,Norte,7172157,2024-06-21
+1623,Livro - O Poder do Hábito,Livros,2,39.90,Cartão de Crédito,Nordeste,3519029,10/07/24
+1187,Bicicleta Ergométrica,ESPORTE,2,899.90,Cartão de Débito,Sul,5177208,12/10/2024
+1068,Camiseta Básica,MODA,2,49.90,Pix,Sul,8141650,29/11/2024
+1335,Tênis de Corrida, Esporte ,1,259.90,Boleto,Sudeste,5835208,26/05/2024
+1610,Livro - O Poder do Hábito,livros,1,"R$ 39,90",Boleto,Sudeste,7570632,24-08-2024
+1626,Camiseta Básica,MODA,2,49.90,Boleto,Sudeste,5891502,25-05-2024
+1481,Mochila Executiva,Moda,1,"R$ 159,90",Cartão de Débito,Norte,6826319,2024-08-06
+1148,Livro - O Poder do Hábito, Livros,1,"R$ 39,90",Cartão de Crédito,Norte,3762606,2024-11-16
+1173,Smartwatch Fit,ELETRÔNICOS,3,"R$ 349,90",Boleto,Centro-Oeste,6301958,18-02-2024
+1598,Mochila Executiva,moda,2,"R$ 159,90",Boleto,Sul,5498450,21/04/2024
+1295,Carregador Portátil, Eletrônicos ,3,79.90,Cartão de Débito,Centro-Oeste,6713470,29/12/24
+1539,Cafeteira Elétrica,Casa e Decoração,3,"R$ 219,90",Pix,Norte,1535303,06-02-2024
+1331,Camiseta Básica,Moda,2,49.90,Pix,Norte,7302428,2024-12-02
+1594,Mochila Executiva,moda,1,"R$ 159,90",Boleto,Nordeste,8604497,17/03/24
+1605,Livro - Hábitos Atômicos,LIVROS,1,,Cartão de Crédito,Nordeste,7895616,23-03-2024
+1618,Camiseta Básica, Moda,3,49.90,Boleto,Norte,8208054,08/09/2024
+1608,Livro - Hábitos Atômicos, Livros,1,44.90,Boleto,Centro-Oeste,7182967,2024-02-13
+1468,Jogo de Panelas,Casa e decoração ,1,"R$ 189,90",Pix,Sudeste,2865702,06/06/24
+1547,Bicicleta Ergométrica,ESPORTE,2,899.90,Pix,Sul,5259232,04-06-2024
+1001,Bicicleta Ergométrica,Esporte,2,899.90,Cartão de Débito,Sul,8359603,11/04/2024
+1529,Fone de Ouvido Bluetooth,Eletrônicos,3,"R$ 129,90",Cartão de Débito,Nordeste,6477631,05/07/24
+1147,Smartwatch Fit,Eletronicos,1,"R$ 349,90",Pix,Sul,6669970,04-06-2024
+1545,Camiseta Básica,MODA,1,49.90,Cartão de Crédito,Nordeste,7824992,2024-04-14
+1368,Camiseta Básica,MODA,2,49.90,Pix,Sudeste,4548459,15/10/24
+1419,Carregador Portátil,eletronicos,2,"R$ 79,90",Cartão de Débito,Nordeste,3627070,27/06/24
+1022,Luminária de Mesa,Casa e decoração ,1,89.90,Boleto,Sudeste,9320082,26/01/2024
+1060,Cafeteira Elétrica,Casa e Decoração,1,"R$ 219,90",Cartão de Débito,Centro-Oeste,6582188,20-10-2024
+1175,Livro - O Poder do Hábito, Livros,3,39.90,Pix,Nordeste,4618224,01/03/24
+1250,Smartwatch Fit,Eletronicos,2,"R$ 349,90",Pix,Norte,5979757,05/01/24
+1312,Fone de Ouvido Bluetooth, Eletrônicos ,2,"R$ 129,90",Pix,Norte,3247428,04/12/2024
+1382,Fone de Ouvido Bluetooth, Eletrônicos ,1,129.90,Cartão de Crédito,Norte,5821348,27-07-2024
+1184,Fone de Ouvido Bluetooth,eletronicos,2,"R$ 129,90",Pix,Norte,6253242,2024-05-28
+1027,Jogo de Panelas,casa e decoracao,3,"R$ 189,90",Pix,Norte,9004257,24/06/2024
+1365,Carregador Portátil,Eletrônicos,2,79.90,Boleto,Sudeste,9430658,2024-03-12
+1053,Smartwatch Fit,ELETRÔNICOS,1,349.90,Cartão de Débito,Sul,8135180,21-11-2024
+1249,Smartwatch Fit,Eletronicos,3,"R$ 349,90",Cartão de Crédito,Centro-Oeste,2129898,27-01-2024
+1208,Carregador Portátil,ELETRÔNICOS,1,"R$ 79,90",Boleto,Nordeste,6253617,2024-08-13
+1636,Fone de Ouvido Bluetooth,eletronicos,2,"R$ 129,90",Boleto,Centro-Oeste,9824195,28/11/24
+1449,Camiseta Básica,Moda,1,49.90,Pix,Centro-Oeste,,30/07/2024
+1546,Luminária de Mesa,Casa e Decoração,1,"R$ 89,90",Boleto,Norte,6503421,06-04-2024
+1570,Luminária de Mesa,casa e decoracao,2,"R$ 89,90",Cartão de Crédito,Norte,4555732,18-10-2024
+1294,Livro - O Poder do Hábito,livros,1,39.90,,Sudeste,8767933,2024-11-29
+1398,Smartwatch Fit,ELETRÔNICOS,2,349.90,Boleto,Sul,6527431,26/05/24
+1013,Bicicleta Ergométrica,esporte,1,899.90,Cartão de Débito,Sul,9835773,2024-09-27
+1010,Bicicleta Ergométrica, Esporte ,3,"R$ 899,90",Cartão de Débito,Sul,8433003,23-06-2024
+1078,Livro - O Poder do Hábito,Livros,1,39.90,Cartão de Débito,Nordeste,8994893,11/12/2024
+1316,Jogo de Panelas,casa e decoracao,2,"R$ 189,90",Cartão de Crédito,Sudeste,3862895,31-05-2024
+1378,Livro - Hábitos Atômicos,Livros,2,44.90,Cartão de Débito,Norte,9536293,20/01/2024
+1168,Camiseta Básica,MODA,3,49.90,Boleto,Nordeste,6262292,31/08/2024
+1399,Camiseta Básica, Moda,1,"R$ 49,90",Pix,Nordeste,7479277,09-06-2024
+1154,Fone de Ouvido Bluetooth,Eletrônicos,2,129.90,Boleto,Sul,6781049,15/09/24
+1273,Smartwatch Fit,Eletrônicos,1,349.90,Cartão de Débito,Sul,7783504,16-07-2024
+1252,Tênis de Corrida,esporte,1,259.90,Cartão de Crédito,Sul,,04/01/2024
+1540,Carregador Portátil,eletronicos,3,79.90,Pix,Sudeste,9433968,11-02-2024
+1105,Mochila Executiva,MODA,2,"R$ 159,90",Pix,Nordeste,2391904,2024-06-23
+1140,Livro - O Poder do Hábito, Livros,1,39.90,Cartão de Crédito,Norte,3513695,15-07-2024
+1267,Cafeteira Elétrica,Casa e decoração ,1,"R$ 219,90",Cartão de Crédito,Sul,4584020,08/09/2024
+1448,Camiseta Básica,Moda,1,49.90,Pix,Centro-Oeste,5485155,30/07/2024
+1061,Smartwatch Fit,ELETRÔNICOS,2,349.90,Cartão de Crédito,Sul,3444830,07-02-2024
+1369,Mochila Executiva,moda,2,159.90,Pix,Sul,6614944,03/04/2024
+1577,Mochila Executiva,MODA,2,"R$ 159,90",Cartão de Débito,Sudeste,3001256,2024-05-22
+1362,Tênis de Corrida,Esporte,1,"R$ 259,90",Boleto,Norte,,08/07/24
+1193,Luminária de Mesa,CASA E DECORAÇÃO,2,89.90,Pix,Sul,3293737,2024-03-27
+1527,Carregador Portátil,Eletrônicos,3,"R$ 79,90",Cartão de Crédito,Norte,4860196,03/06/2024
+1266,Mochila Executiva, Moda,1,"R$ 159,90",Pix,Nordeste,1462720,2024-03-31
+1460,Bicicleta Ergométrica,Esporte,2,"R$ 899,90",Cartão de Débito,Centro-Oeste,7719452,09/09/2024
+1633,Bicicleta Ergométrica,Esporte,1,"R$ 899,90",Boleto,Centro-Oeste,8539708,21/07/24
+1538,Camiseta Básica,MODA,2,"R$ 49,90",Cartão de Débito,Centro-Oeste,3271895,2024-10-25
+1519,Tênis de Corrida,Esporte,3,"R$ 259,90",,Sudeste,9856658,30/10/24
+1388,Livro - Hábitos Atômicos,LIVROS,2,44.90,Pix,Centro-Oeste,4638768,20/05/2024
+1200,Fone de Ouvido Bluetooth,eletronicos,1,129.90,Boleto,Centro-Oeste,2260306,2024-01-09
+1323,Carregador Portátil,Eletrônicos,1,79.90,Cartão de Débito,Centro-Oeste,3709076,25-11-2024
+1391,Mochila Executiva,Moda,1,159.90,Pix,Sul,9987269,04/07/24
+1406,Fone de Ouvido Bluetooth,ELETRÔNICOS,1,"R$ 129,90",Cartão de Crédito,Norte,7121193,01/11/24
+1435,Camiseta Básica,MODA,2,49.90,Boleto,Norte,9589252,11-04-2024
+1348,Smartwatch Fit,Eletronicos,1,349.90,Cartão de Crédito,Norte,1745717,24-11-2024
+1484,Camiseta Básica, Moda,1,49.90,Cartão de Crédito,Centro-Oeste,2752333,05/11/2024
+1324,Fone de Ouvido Bluetooth,Eletronicos,1,129.90,Cartão de Débito,Sul,2291470,08/10/24
+1307,Carregador Portátil, Eletrônicos ,1,79.90,Pix,Nordeste,8469745,03-02-2024
+1563,Livro - Hábitos Atômicos, Livros,3,"R$ 44,90",Pix,Sudeste,9755593,2024-06-03
+1310,Camiseta Básica,Moda,1,49.90,Cartão de Crédito,Centro-Oeste,5190789,30/12/2024
+1269,Livro - Hábitos Atômicos,Livros,1,44.90,Cartão de Débito,Norte,2655344,2024-12-26
+1624,Carregador Portátil,Eletrônicos,1,79.90,Cartão de Débito,Nordeste,3118216,23-01-2024
+1320,Livro - Hábitos Atômicos,Livros,3,44.90,Cartão de Débito,Sudeste,7738451,07-03-2024
+1219,Carregador Portátil,ELETRÔNICOS,2,79.90,Pix,Nordeste,8501632,19-07-2024
+1513,Fone de Ouvido Bluetooth,ELETRÔNICOS,1,129.90,Cartão de Débito,Norte,1060527,18/03/24
+1442,Mochila Executiva,moda,2,159.90,Cartão de Crédito,Nordeste,8940887,17/09/2024
+1072,Fone de Ouvido Bluetooth,Eletronicos,2,"R$ 129,90",Cartão de Crédito,Centro-Oeste,2924663,17/02/24
+1303,Smartwatch Fit,ELETRÔNICOS,2,349.90,Boleto,Sul,4281350,01/06/24
+1261,Luminária de Mesa,CASA E DECORAÇÃO,2,"R$ 89,90",Cartão de Débito,Sul,6799219,16-01-2024
+1138,Carregador Portátil,ELETRÔNICOS,1,79.90,Cartão de Débito,Sudeste,6776629,19-12-2024
+1414,Luminária de Mesa,Casa e Decoração,3,89.90,Pix,Centro-Oeste,5895203,08/10/2024
+1003,Luminária de Mesa,CASA E DECORAÇÃO,2,89.90,Cartão de Débito,Sudeste,5803849,04-03-2024
+1170,Luminária de Mesa,Casa e Decoração,1,89.90,Boleto,Sudeste,,01-08-2024
+1523,Livro - Hábitos Atômicos,LIVROS,1,44.90,Boleto,Nordeste,4493782,2024-03-02
+1371,Smartwatch Fit,Eletrônicos,2,"R$ 349,90",Cartão de Crédito,Centro-Oeste,9553430,03/12/2024
+1501,Jogo de Panelas,Casa e decoração ,1,"R$ 189,90",Pix,Sudeste,2827618,2024-11-11
+1150,Mochila Executiva,Moda,2,159.90,Pix,Centro-Oeste,5012824,17/11/24
+1438,Carregador Portátil,eletronicos,1,"R$ 79,90",Cartão de Crédito,Nordeste,8373482,2024-01-08
+1274,Cafeteira Elétrica,casa e decoracao,1,"R$ 219,90",Cartão de Crédito,Nordeste,1328326,19/08/2024
+1349,Livro - O Poder do Hábito, Livros,2,"R$ 39,90",Cartão de Débito,Centro-Oeste,7473841,14/02/24
+1542,Bicicleta Ergométrica,Esporte,3,899.90,Boleto,Sul,6250361,01/09/24
+1444,Livro - O Poder do Hábito, Livros,1,"R$ 39,90",Cartão de Crédito,Nordeste,7343911,13/09/2024
+1467,Cafeteira Elétrica,Casa e Decoração,3,219.90,Cartão de Débito,Centro-Oeste,1745341,2024-04-16
+1561,Fone de Ouvido Bluetooth, Eletrônicos ,1,"R$ 129,90",Pix,Centro-Oeste,3219365,24-10-2024
+1146,Smartwatch Fit,ELETRÔNICOS,2,349.90,Boleto,Norte,3981786,14/12/24
+1257,Smartwatch Fit,Eletrônicos,1,"R$ 349,90",Cartão de Crédito,Sul,6370151,2024-12-17
+1535,Jogo de Panelas,Casa e Decoração,3,189.90,Boleto,Sul,6362444,2024-08-07
+1534,Camiseta Básica,moda,2,49.90,Cartão de Crédito,Centro-Oeste,9548500,2024-10-10
+1615,Cafeteira Elétrica,Casa e decoração ,2,219.90,Cartão de Crédito,Sudeste,5155516,09-12-2024
+1556,Mochila Executiva,MODA,1,159.90,Boleto,Sul,5968486,27-10-2024
+1604,Livro - Hábitos Atômicos,LIVROS,1,44.90,Cartão de Crédito,Nordeste,7895616,23-03-2024
+1026,Bicicleta Ergométrica, Esporte ,2,899.90,Pix,Sudeste,3200270,30/11/2024
+1591,Livro - O Poder do Hábito, Livros,1,39.90,Cartão de Débito,Norte,3958902,2024-07-31
+1453,Fone de Ouvido Bluetooth,Eletronicos,3,129.90,Cartão de Débito,Norte,9784537,13/07/2024
+1520,Fone de Ouvido Bluetooth, Eletrônicos ,3,129.90,Boleto,Norte,8509962,2024-01-22
+1319,Smartwatch Fit,eletronicos,3,349.90,Boleto,Sudeste,7816933,31/01/24
+1329,Tênis de Corrida,Esporte,2,259.90,Boleto,Nordeste,2765775,20/04/2024
+1559,Livro - O Poder do Hábito,LIVROS,1,39.90,Pix,Centro-Oeste,3938503,2024-11-30
+1379,Livro - O Poder do Hábito,LIVROS,2,"R$ 39,90",Pix,Sul,1550802,2024-01-06
+1195,Tênis de Corrida,ESPORTE,1,259.90,Cartão de Débito,Centro-Oeste,1257006,31/01/24
+1028,Jogo de Panelas,Casa e Decoração,1,189.90,Pix,Sul,8239564,19/06/2024
+1214,Livro - O Poder do Hábito,livros,1,39.90,Pix,Centro-Oeste,2406118,2024-01-13
+1081,Carregador Portátil,eletronicos,1,79.90,Cartão de Débito,Nordeste,1153920,24-08-2024
+1386,Luminária de Mesa,casa e decoracao,2,"R$ 89,90",Boleto,Nordeste,4387234,2024-04-12
+1198,Fone de Ouvido Bluetooth,Eletrônicos,2,"R$ 129,90",Cartão de Débito,Sudeste,1154719,13/07/24
+1156,Mochila Executiva,Moda,2,"R$ 159,90",Pix,Sudeste,7329516,14-10-2024
+1167,Bicicleta Ergométrica,esporte,3,"R$ 899,90",Cartão de Débito,Nordeste,8739102,2024-04-29
+1040,Tênis de Corrida,esporte,1,"R$ 259,90",Cartão de Débito,Norte,2193466,2024-01-24
+1032,Mochila Executiva,Moda,1,159.90,,Sul,5371163,19/06/2024
+1482,Bicicleta Ergométrica,Esporte,2,"R$ 899,90",Cartão de Débito,Sudeste,8464317,17/10/24
+1403,Livro - Hábitos Atômicos,LIVROS,2,44.90,Cartão de Débito,Sul,9835181,03/10/24
+1558,Jogo de Panelas,CASA E DECORAÇÃO,1,189.90,Pix,Centro-Oeste,8593229,03/06/2024
+1004,Fone de Ouvido Bluetooth,eletronicos,1,129.90,Cartão de Crédito,Centro-Oeste,5554464,10-02-2024
+1385,Jogo de Panelas,Casa e Decoração,2,189.90,Pix,Sudeste,3924487,2024-12-10
+1071,Cafeteira Elétrica,Casa e Decoração,1,219.90,Pix,Centro-Oeste,8941124,2024-05-16
+1217,Livro - O Poder do Hábito,LIVROS,2,39.90,Boleto,Centro-Oeste,8037398,2024-01-15
+1014,Livro - O Poder do Hábito, Livros,2,39.90,Boleto,Sul,2049346,2024-09-21
+1576,Mochila Executiva,Moda,1,159.90,Pix,Norte,5472774,05/08/24
+1179,Jogo de Panelas,Casa e Decoração,2,189.90,Boleto,Norte,2196046,10/05/2024
+1507,Tênis de Corrida, Esporte ,3,259.90,Pix,Norte,1173688,19/12/2024
+1397,Livro - Hábitos Atômicos,livros,2,44.90,Boleto,Nordeste,6818332,21/10/24
+1543,Livro - Hábitos Atômicos,LIVROS,2,44.90,Cartão de Crédito,Centro-Oeste,9714694,13-09-2024
+1427,Bicicleta Ergométrica,ESPORTE,1,899.90,Pix,Nordeste,7755782,10-06-2024
+1477,Luminária de Mesa,Casa e Decoração,1,89.90,Cartão de Crédito,Nordeste,8649910,08-06-2024
+1225,Tênis de Corrida,ESPORTE,1,259.90,Pix,Sudeste,8368269,30/11/2024
+1595,Tênis de Corrida,esporte,1,"R$ 259,90",Pix,Norte,3883659,10/03/24
+1202,Carregador Portátil,Eletronicos,2,"R$ 79,90",Pix,Centro-Oeste,9038233,16/06/24
+1461,Carregador Portátil,Eletronicos,1,"R$ 79,90",Cartão de Crédito,Nordeste,1601148,26-01-2024
+1204,Smartwatch Fit,Eletrônicos,1,349.90,Pix,Sudeste,3170089,06/06/24
+1211,Mochila Executiva,MODA,1,"R$ 159,90",Pix,Sul,7932808,20/11/24
+1401,Smartwatch Fit,Eletrônicos,2,"R$ 349,90",Cartão de Débito,Norte,2363106,2024-10-07
+1067,Luminária de Mesa,Casa e decoração ,2,"R$ 89,90",Boleto,Norte,1339783,08-05-2024
+1548,Livro - Hábitos Atômicos, Livros,2,44.90,Boleto,Norte,5673186,2024-03-26
+1394,Smartwatch Fit, Eletrônicos ,1,349.90,,Sul,3389819,2024-10-11
+1207,Cafeteira Elétrica,Casa e Decoração,1,219.90,Cartão de Débito,Norte,4203468,08-05-2024
+1262,Fone de Ouvido Bluetooth,Eletronicos,2,"R$ 129,90",Pix,Centro-Oeste,7750903,11/11/2024
+1498,Carregador Portátil,Eletrônicos,1,79.90,,Norte,6119627,29-08-2024
+1376,Camiseta Básica,Moda,3,49.90,Boleto,Sudeste,4513520,27-04-2024
+1074,Mochila Executiva, Moda,2,159.90,Pix,Nordeste,9022886,16/05/24
+1509,Tênis de Corrida,Esporte,3,"R$ 259,90",Boleto,Centro-Oeste,4027917,2024-03-02
+1360,Carregador Portátil,eletronicos,2,79.90,Boleto,Norte,3395753,12-03-2024
+1415,Smartwatch Fit,eletronicos,3,"R$ 349,90",Boleto,Nordeste,2960405,10/08/2024
+1372,Cafeteira Elétrica,CASA E DECORAÇÃO,1,219.90,Cartão de Crédito,Centro-Oeste,3193260,2024-10-28
+1263,Mochila Executiva,moda,3,"R$ 159,90",Cartão de Crédito,Centro-Oeste,6883491,26/09/24
+1084,Jogo de Panelas,casa e decoracao,2,"R$ 189,90",Boleto,Norte,5106694,2024-06-29
+1169,Luminária de Mesa,Casa e Decoração,1,89.90,Boleto,Sudeste,7504806,01-08-2024
+1505,Cafeteira Elétrica,CASA E DECORAÇÃO,3,219.90,Cartão de Crédito,Sudeste,9704652,10/06/24
+1284,Luminária de Mesa,Casa e Decoração,1,89.90,Pix,Nordeste,9514469,17/07/2024
+1340,Carregador Portátil,Eletrônicos,3,79.90,Pix,Centro-Oeste,6866074,11-11-2024
+1475,Camiseta Básica,moda,1,49.90,Pix,Nordeste,3347787,2024-09-04
+1242,Mochila Executiva, Moda,3,159.90,Cartão de Débito,Centro-Oeste,7590084,2024-12-30
+1005,Livro - O Poder do Hábito, Livros,3,39.90,Boleto,Norte,5010167,15-12-2024
+1564,Livro - Hábitos Atômicos,LIVROS,2,44.90,Boleto,Sudeste,4569158,2024-06-23
+1440,Tênis de Corrida, Esporte ,1,259.90,Cartão de Crédito,Sudeste,7367676,26-08-2024
+1631,Bicicleta Ergométrica,Esporte,1,899.90,Boleto,Centro-Oeste,1741085,04-12-2024
+1121,Camiseta Básica,moda,1,"R$ 49,90",Boleto,Sul,2264302,05/09/2024
+1136,Mochila Executiva,MODA,3,159.90,Cartão de Débito,Nordeste,4060508,13-08-2024
+1333,Jogo de Panelas,Casa e decoração ,3,189.90,Boleto,Norte,9888710,08/03/2024
+1363,Livro - Hábitos Atômicos,Livros,3,44.90,Pix,Nordeste,9918583,23/09/24
+1152,Mochila Executiva,moda,1,159.90,Pix,Sul,8642125,2024-09-20
+1098,Cafeteira Elétrica,Casa e Decoração,1,219.90,Cartão de Crédito,Sul,5505639,13-06-2024
+1499,Bicicleta Ergométrica,ESPORTE,2,899.90,Pix,Nordeste,3744036,18-06-2024
+1506,Jogo de Panelas,Casa e decoração ,1,189.90,Pix,Norte,7408472,2024-05-16
+1443,Cafeteira Elétrica,Casa e Decoração,1,219.90,Pix,Nordeste,9027402,06/05/2024
+1290,Carregador Portátil,Eletrônicos,1,79.90,Boleto,Sudeste,5087033,08-04-2024
+1567,Tênis de Corrida,esporte,1,259.90,Cartão de Crédito,Sudeste,1308793,05/08/24
+1361,Tênis de Corrida,Esporte,1,"R$ 259,90",Boleto,Norte,6918397,08/07/24
+1203,Livro - O Poder do Hábito,LIVROS,1,"R$ 39,90",Boleto,Sudeste,2344274,2024-11-12
+1116,Livro - Hábitos Atômicos,Livros,2,"R$ 44,90",Boleto,Centro-Oeste,8199536,2024-11-26
+1166,Jogo de Panelas,CASA E DECORAÇÃO,1,189.90,Pix,Norte,5450140,2024-04-13
+1103,Bicicleta Ergométrica, Esporte ,1,899.90,Cartão de Débito,Norte,1430623,22-05-2024
+1585,Tênis de Corrida,esporte,1,"R$ 259,90",Cartão de Crédito,Sudeste,5995117,27/11/2024
+1039,Tênis de Corrida,ESPORTE,3,259.90,Pix,Norte,6491095,2024-03-27
+1101,Smartwatch Fit,ELETRÔNICOS,1,349.90,Cartão de Crédito,Norte,6400686,09-07-2024
+1104,Jogo de Panelas,Casa e decoração ,1,"R$ 189,90",Boleto,Norte,7566071,04/01/2024
+1109,Livro - Hábitos Atômicos,Livros,2,44.90,Cartão de Débito,Sudeste,6129589,22/01/24
+1459,Cafeteira Elétrica,Casa e decoração ,3,"R$ 219,90",Boleto,Sul,1057637,02/04/2024
+1587,Mochila Executiva,MODA,1,159.90,Cartão de Crédito,Nordeste,7188584,11/01/2024
+1048,Jogo de Panelas,CASA E DECORAÇÃO,1,189.90,Pix,Centro-Oeste,5558770,18/04/24
+1103,Bicicleta Ergométrica, Esporte ,1,899.90,Cartão de Débito,Norte,1430623,22-05-2024
+1514,Luminária de Mesa,Casa e Decoração,2,"R$ 89,90",Cartão de Débito,Sudeste,9770957,25-04-2024
+1149,Carregador Portátil, Eletrônicos ,2,79.90,Cartão de Crédito,Sudeste,1744971,22-01-2024
+1264,Livro - Hábitos Atômicos,LIVROS,1,"R$ 44,90",Boleto,Sudeste,5602059,02/04/24
+1044,Jogo de Panelas,Casa e decoração ,1,"R$ 189,90",Boleto,Sul,7275710,2024-10-03
+1354,Tênis de Corrida,ESPORTE,1,"R$ 259,90",Boleto,Sudeste,5671634,2024-07-01
+1339,Bicicleta Ergométrica, Esporte ,1,899.90,Pix,Sudeste,6415477,2024-03-23
+1255,Mochila Executiva,moda,1,"R$ 159,90",Pix,Centro-Oeste,6345325,2024-05-29
+1487,Smartwatch Fit,Eletronicos,1,349.90,Cartão de Débito,Nordeste,9098660,16/12/2024
+1220,Livro - O Poder do Hábito,livros,1,"R$ 39,90",Cartão de Crédito,Sul,7116710,01/03/24
+1119,Smartwatch Fit, Eletrônicos ,2,349.90,Pix,Sul,9624095,11/07/24
+1223,Cafeteira Elétrica,casa e decoracao,1,"R$ 219,90",Boleto,Nordeste,1535281,16-10-2024
+1112,Luminária de Mesa,casa e decoracao,1,"R$ 89,90",Boleto,Sul,3504778,22/02/2024
+1431,Smartwatch Fit, Eletrônicos ,2,349.90,Cartão de Crédito,Norte,5921038,29/03/24
+1336,Carregador Portátil,Eletronicos,1,79.90,Boleto,Norte,5712709,27/11/24
+1602,Cafeteira Elétrica,CASA E DECORAÇÃO,1,219.90,Pix,Nordeste,2478958,2024-07-20
+1029,Luminária de Mesa,casa e decoracao,2,89.90,Boleto,Centro-Oeste,3088042,19/01/2024
+1504,Cafeteira Elétrica,Casa e decoração ,2,"R$ 219,90",Cartão de Débito,Centro-Oeste,5302148,29/09/24
+1172,Livro - O Poder do Hábito, Livros,3,"R$ 39,90",Pix,Nordeste,4164179,05/04/24
+1157,Carregador Portátil,Eletrônicos,1,"R$ 79,90",Pix,Norte,6990773,19/02/24
+1356,Livro - O Poder do Hábito,LIVROS,1,"R$ 39,90",Pix,Centro-Oeste,8583456,03-07-2024
+1258,Fone de Ouvido Bluetooth, Eletrônicos ,1,"R$ 129,90",Cartão de Débito,Centro-Oeste,5093096,2024-03-30
+1358,Carregador Portátil,Eletronicos,2,"R$ 79,90",Cartão de Crédito,Norte,5269556,29/10/24
+1017,Carregador Portátil,Eletronicos,2,79.90,Cartão de Débito,Sul,2545099,04-05-2024
+1045,Bicicleta Ergométrica,ESPORTE,2,"R$ 899,90",Cartão de Débito,Centro-Oeste,1320877,01/02/24
+1555,Jogo de Panelas,Casa e decoração ,1,189.90,Cartão de Crédito,Sul,8278759,06/06/24
+1207,Cafeteira Elétrica,Casa e Decoração,1,219.90,Cartão de Débito,Norte,4203468,08-05-2024
+1231,Mochila Executiva,moda,2,159.90,Pix,Nordeste,6533560,18/04/24
+1301,Luminária de Mesa,Casa e decoração ,3,89.90,Boleto,Nordeste,2463227,13-10-2024
+1494,Livro - Hábitos Atômicos,livros,1,44.90,Cartão de Débito,Sul,9220275,05-08-2024
+1622,Tênis de Corrida,Esporte,2,"R$ 259,90",Cartão de Crédito,Sul,9161693,19-10-2024
+1100,Mochila Executiva,MODA,3,"R$ 159,90",Pix,Nordeste,7132976,18/02/24
+1492,Mochila Executiva,moda,1,"R$ 159,90",Cartão de Crédito,Sudeste,1257147,09/12/24
+1155,Livro - O Poder do Hábito,LIVROS,1,"R$ 39,90",Cartão de Crédito,Centro-Oeste,3194903,01-10-2024
+1197,Jogo de Panelas,Casa e decoração ,1,"R$ 189,90",Cartão de Débito,Centro-Oeste,4984713,22/07/2024
+1171,Carregador Portátil,Eletrônicos,1,79.90,Cartão de Débito,Sul,9261479,25/05/2024
+1128,Luminária de Mesa,Casa e decoração ,1,"R$ 89,90",Cartão de Débito,Sul,8685459,11/03/2024
+1483,Camiseta Básica, Moda,1,"R$ 49,90",Pix,Nordeste,8426499,19/07/24
+1085,Livro - O Poder do Hábito,Livros,1,"R$ 39,90",Pix,Sul,2476931,13/08/24
+1280,Camiseta Básica, Moda,2,"R$ 49,90",Cartão de Crédito,Nordeste,8204476,08-07-2024
+1205,Smartwatch Fit,Eletrônicos,1,349.90,Pix,Centro-Oeste,1202298,30/06/2024
+1592,Luminária de Mesa,CASA E DECORAÇÃO,1,89.90,Cartão de Débito,Norte,1981534,22/11/24
+1473,Carregador Portátil,Eletrônicos,1,79.90,Cartão de Crédito,Nordeste,7780088,2024-12-27
+1359,Mochila Executiva,moda,2,"R$ 159,90",Cartão de Crédito,Centro-Oeste,6961514,2024-05-28
+1417,Livro - O Poder do Hábito,Livros,1,39.90,Cartão de Crédito,Sul,8992238,01-07-2024
+1390,Bicicleta Ergométrica,Esporte,2,,Boleto,Centro-Oeste,2972715,26-06-2024
+1291,Cafeteira Elétrica,CASA E DECORAÇÃO,3,219.90,Boleto,Nordeste,9008608,04/03/24
+1129,Camiseta Básica,MODA,1,"R$ 49,90",Cartão de Crédito,Sudeste,4906429,27/05/24
+1469,Fone de Ouvido Bluetooth,eletronicos,1,129.90,Cartão de Débito,Centro-Oeste,1582661,2024-06-18
+1338,Carregador Portátil,eletronicos,3,"R$ 79,90",Boleto,Sudeste,4063985,09/04/2024
+1215,Tênis de Corrida,ESPORTE,1,"R$ 259,90",Cartão de Débito,Nordeste,2100307,31/08/2024
+1507,Tênis de Corrida, Esporte ,3,259.90,Pix,Norte,1173688,19/12/2024
+1609,Livro - Hábitos Atômicos, Livros,1,44.90,Boleto,Centro-Oeste,,2024-02-13
+1439,Bicicleta Ergométrica, Esporte ,2,899.90,Boleto,Sudeste,7170596,04/09/2024
+1343,Livro - Hábitos Atômicos,LIVROS,1,"R$ 44,90",Pix,Sudeste,9468841,16/07/24
+1470,Bicicleta Ergométrica, Esporte ,2,899.90,Cartão de Crédito,Norte,5904578,30-07-2024
+1190,Livro - Hábitos Atômicos, Livros,2,44.90,Pix,Nordeste,5285368,26/08/24
+1285,Bicicleta Ergométrica,ESPORTE,1,"R$ 899,90",Cartão de Crédito,Sudeste,2654804,31-07-2024
+1160,Luminária de Mesa,Casa e Decoração,2,"R$ 89,90",Boleto,Sudeste,8871174,30/08/24
+1020,Fone de Ouvido Bluetooth,Eletrônicos,1,129.90,Cartão de Débito,Sul,7570924,26/03/24
+1437,Livro - Hábitos Atômicos,LIVROS,2,44.90,Boleto,Sul,7124159,15/03/2024
+1450,Carregador Portátil, Eletrônicos ,2,79.90,Boleto,Sul,1427367,17/10/24
+1346,Camiseta Básica, Moda,2,49.90,Boleto,Nordeste,7678397,06/02/24
+1495,Livro - Hábitos Atômicos,livros,1,44.90,,Sul,9220275,05-08-2024
+,,,,,,,,
+1474,Jogo de Panelas,casa e decoracao,2,"R$ 189,90",Pix,Sudeste,4311935,03/06/2024
+1418,Tênis de Corrida,Esporte,3,"R$ 259,90",Boleto,Nordeste,1646496,12-07-2024
+1265,Tênis de Corrida,esporte,1,259.90,Pix,Norte,1916782,2024-05-06
+1062,Bicicleta Ergométrica,ESPORTE,2,899.90,Boleto,Norte,7232461,01-11-2024
+1551,Bicicleta Ergométrica, Esporte ,3,"R$ 899,90",Pix,Norte,3409818,27/12/24
+1314,Jogo de Panelas,Casa e Decoração,1,"R$ 189,90",,Nordeste,9571996,11/09/24
+1573,Jogo de Panelas,Casa e Decoração,1,189.90,Cartão de Débito,Nordeste,8486614,16/06/24
+1423,Luminária de Mesa,Casa e decoração ,1,"R$ 89,90",Cartão de Crédito,Sudeste,4419671,06/07/2024
+1018,Luminária de Mesa,Casa e Decoração,3,89.90,Cartão de Crédito,Sudeste,7596745,30/11/2024
+1526,Cafeteira Elétrica,casa e decoracao,1,219.90,Cartão de Débito,Centro-Oeste,4919960,14/03/2024
+1059,Jogo de Panelas,casa e decoracao,1,"R$ 189,90",Boleto,Nordeste,1745997,01-04-2024
+1228,Mochila Executiva,Moda,1,"R$ 159,90",Boleto,Sul,3396728,2024-12-01
+1616,Camiseta Básica,Moda,2,"R$ 49,90",Cartão de Débito,Nordeste,8669135,01/04/24
+1608,Livro - Hábitos Atômicos, Livros,1,44.90,Boleto,Centro-Oeste,7182967,2024-02-13
+1588,Livro - O Poder do Hábito,livros,1,39.90,Pix,Sul,5907372,2024-09-11
+1512,Tênis de Corrida,Esporte,2,"R$ 259,90",Cartão de Crédito,Sudeste,5105795,12/05/24
+1486,Livro - Hábitos Atômicos,livros,1,44.90,Cartão de Débito,Sudeste,8584333,05/12/24
+1400,Cafeteira Elétrica,CASA E DECORAÇÃO,1,219.90,Boleto,Sul,5122963,04/04/2024
+1488,Carregador Portátil,Eletrônicos,1,"R$ 79,90",Pix,Centro-Oeste,8326200,04-12-2024
+1034,Jogo de Panelas,Casa e decoração ,3,"R$ 189,90",Pix,Sudeste,2889898,2024-09-17
+1288,Luminária de Mesa,Casa e Decoração,1,"R$ 89,90",Cartão de Débito,Nordeste,5414746,09/03/2024
+1552,Cafeteira Elétrica,Casa e Decoração,1,219.90,Pix,Sudeste,7580632,13/12/24
+1593,Livro - O Poder do Hábito, Livros,2,"R$ 39,90",Cartão de Crédito,Sul,7757273,2024-07-29
+1575,Livro - O Poder do Hábito,Livros,1,"R$ 39,90",Cartão de Crédito,Sul,2060372,14-03-2024
+1496,Luminária de Mesa,Casa e decoração ,1,89.90,Cartão de Crédito,Sul,9624879,24-10-2024
+1416,Luminária de Mesa,CASA E DECORAÇÃO,3,"R$ 89,90",Cartão de Crédito,Sul,3583511,01-11-2024
+1433,Livro - Hábitos Atômicos,livros,1,44.90,Boleto,Sudeste,7436994,14/09/2024
+1102,Mochila Executiva,Moda,1,"R$ 159,90",Cartão de Crédito,Norte,9313217,03/11/24
+1007,Carregador Portátil, Eletrônicos ,1,79.90,Cartão de Débito,Sul,5339142,01-12-2024
+1332,Jogo de Panelas,CASA E DECORAÇÃO,1,189.90,Pix,Norte,6143728,2024-03-11
+1049,Fone de Ouvido Bluetooth,Eletronicos,1,"R$ 129,90",Cartão de Crédito,Sudeste,1508972,28/06/2024
+1392,Camiseta Básica,MODA,2,49.90,Pix,Nordeste,7563286,2024-04-17
+1566,Carregador Portátil,Eletronicos,1,79.90,Cartão de Crédito,Sudeste,4643131,2024-03-29
+1292,Camiseta Básica, Moda,3,"R$ 49,90",Cartão de Crédito,Centro-Oeste,1813166,2024-12-18
+1199,Livro - Hábitos Atômicos,Livros,2,"R$ 44,90",Cartão de Débito,Nordeste,1762946,22-01-2024
+1239,Fone de Ouvido Bluetooth,eletronicos,2,"R$ 129,90",Cartão de Débito,Norte,2163540,16/07/2024
+1582,Mochila Executiva,moda,1,159.90,Cartão de Crédito,Norte,9037675,18/07/24
+1451,Cafeteira Elétrica,Casa e decoração ,1,219.90,Boleto,Sul,4166231,17/07/2024
+1019,Cafeteira Elétrica,casa e decoracao,2,"R$ 219,90",Boleto,Sudeste,8260827,03/04/2024
+1472,Livro - O Poder do Hábito, Livros,1,39.90,Pix,Sudeste,6556384,2024-02-03
+1485,Mochila Executiva,MODA,1,"R$ 159,90",Boleto,Centro-Oeste,7288067,13/11/24
+1446,Mochila Executiva, Moda,2,159.90,Boleto,Sul,3270594,2024-06-17
+1151,Fone de Ouvido Bluetooth,eletronicos,2,129.90,Boleto,Nordeste,3353320,31-07-2024
+1165,Bicicleta Ergométrica,ESPORTE,2,899.90,Boleto,Nordeste,1689294,25/06/2024
+1115,Smartwatch Fit,Eletronicos,2,"R$ 349,90",Cartão de Crédito,Centro-Oeste,4084329,2024-09-16
