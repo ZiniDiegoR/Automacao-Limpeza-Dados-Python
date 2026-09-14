@@ -8,7 +8,7 @@ Praticar o fluxo completo de tratamento de dados fora de ferramentas visuais (Po
 
 ## 🧹 Problemas encontrados na base bruta
 
-A base (`dados/vendas_brutas.csv`) simula um extrato de pedidos de e-commerce e contém:
+A base (`vendas_brutas.csv`) simula um extrato de pedidos de e-commerce e contém:
 
 - Categorias com capitalização e espaçamento inconsistentes (ex: `"ESPORTE"`, `" Esporte "`, `"esporte"`)
 - Datas em múltiplos formatos na mesma coluna (`31/08/2024`, `2024-03-12`, `16-11-24`)
@@ -34,28 +34,3 @@ A base (`dados/vendas_brutas.csv`) simula um extrato de pedidos de e-commerce e 
 Um exemplo simples de uso da base já tratada: cálculo de faturamento por categoria e geração do gráfico `faturamento_por_categoria.png`, mostrando que a base limpa está pronta para gerar indicadores de negócio.
 
 ## 🗂 Estrutura do projeto
-
-```
-dados/
-  vendas_brutas.csv      # base original, com problemas de qualidade
-  vendas_tratadas.csv    # base limpa, gerada pelo script
-limpar_dados.py           # script principal de limpeza
-analise_exploratoria.py   # exemplo de análise sobre a base tratada
-relatorio_qualidade.txt   # log gerado automaticamente a cada execução
-faturamento_por_categoria.png
-README.md
-```
-
-## ▶️ Como executar
-
-```bash
-pip install pandas matplotlib
-python limpar_dados.py
-python analise_exploratoria.py
-```
-
-## 🔧 Tecnologias
-
-Python 3, Pandas, Matplotlib, expressões regulares (`re`) para tratamento de texto.
-
-*Projeto feito para fins de aprendizado e portfólio, em complemento ao projeto de Dashboard de Vendas em Power BI.*
