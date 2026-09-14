@@ -1,0 +1,18 @@
+=== RELATÓRIO DE QUALIDADE E LIMPEZA DE DADOS ===
+
+Linhas carregadas do arquivo bruto: 661
+Linhas totalmente vazias removidas: 5
+Linhas duplicadas removidas: 19
+Categorias padronizadas (case e espaços inconsistentes corrigidos).
+Valores unitários convertidos para numérico. Nulos restantes: 9
+Datas convertidas para formato padrão (YYYY-MM-DD). Não reconhecidas: 0
+CEPs padronizados para 8 dígitos, com zeros à esquerda restaurados.
+Coluna 'quantidade' convertida para numérico.
+Coluna 'forma_pagamento': 13 valores ausentes preenchidos como 'Não informado'.
+Coluna 'regiao': 0 valores ausentes preenchidos como 'Não informado'.
+
+Linhas removidas por falta de dados essenciais (valor/quantidade/data): 9
+Coluna derivada 'valor_total' calculada (quantidade x valor_unitario).
+
+Base final exportada para: dados/vendas_tratadas.csv
+Total de linhas na base tratada: 628
